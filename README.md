@@ -18,7 +18,7 @@ To explore the relationship between the frequency of listening to different musi
 
 ## Data visualization & Key findings
 I would like to investigate the connection between people's favorite music genres and their views on four mental health issues. One effective method for this exploration is correlation analysis, which is a mathematical tool used to measure the strength and direction of the relationship between two continuous numerical variables. The Pearson correlation coefficient is the most commonly used measure of correlation, ranging from -1 to 1. The formula for calculating the Pearson correlation coefficient is as follows:
-![Pearson_correlation_coefficient]([![Correlation coefficient.png](/attachments/e595d408-5c89-4c5d-a5ae-ec1938431369)](https://github.com/BOOMUMA/BOOMUMA/blob/main/Correlation%20coefficient.png))
+![Pearson_correlation_coefficient](https://github.com/BOOMUMA/BOOMUMA/blob/main/Correlation%20coefficient.png)
 
 A positive coefficient indicates a positive linear relationship between two variables, suggesting that as one variable increases, the other variable also tends to increase. Conversely, a negative coefficient indicates a negative linear relationship, meaning that as one variable increases, the other variable tends to decrease. A coefficient of 0 signifies no linear relationship between the two variables. The size of the coefficient can be interpreted as follows:
 
