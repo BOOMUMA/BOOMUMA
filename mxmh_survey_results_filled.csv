@@ -1,0 +1,570 @@
+Age,Primary streaming service,Hours per day,While working,Instrumentalist,Composer,Fav genre,Exploratory,Foreign languages,BPM,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [Folk],Frequency [Gospel],Frequency [Hip hop],Frequency [Jazz],Frequency [K pop],Frequency [Latin],Frequency [Lofi],Frequency [Metal],Frequency [Pop],Frequency [R&B],Frequency [Rap],Frequency [Rock],Frequency [Video game music],Anxiety,Depression,Insomnia,OCD,Music effects
+18.0,Spotify,4.0,No,No,No,Video game music,No,Yes,132.0,1,1,4,1,1,2,2,4,1,3,3,2,1,2,2,4,7.0,7.0,10.0,2.0,No effect
+61.0,YouTube Music,2.5,Yes,No,Yes,Jazz,Yes,Yes,84.0,3,1,1,2,3,1,4,3,4,3,1,3,3,1,1,1,9.0,7.0,3.0,3.0,Improve
+18.0,Spotify,4.0,Yes,No,No,R&B,Yes,No,107.0,1,1,2,1,2,4,1,4,3,3,1,3,4,4,1,2,7.0,2.0,5.0,9.0,Improve
+18.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,86.0,2,3,1,1,1,3,4,4,2,4,2,4,4,4,4,1,8.0,8.0,7.0,7.0,Improve
+18.0,YouTube Music,3.0,Yes,Yes,No,Video game music,Yes,Yes,66.0,3,1,2,3,2,2,3,1,2,2,2,2,2,1,1,3,4.0,8.0,6.0,0.0,Improve
+21.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,95.0,1,1,2,1,1,4,2,4,1,3,1,3,3,2,1,2,5.0,3.0,5.0,3.0,Improve
+19.0,Spotify,6.0,Yes,No,No,Rock,No,No,94.0,1,4,1,3,1,1,1,1,1,1,4,1,1,1,4,1,2.0,0.0,0.0,0.0,Improve
+18.0,I do not use a streaming service.,1.0,Yes,No,No,R&B,Yes,Yes,155.0,2,2,2,2,3,2,2,1,2,2,1,3,3,2,3,3,2.0,2.0,5.0,1.0,Improve
+19.0,YouTube Music,8.0,Yes,No,No,EDM,Yes,No,125.0,2,1,4,1,1,3,2,2,2,2,1,2,2,3,2,2,1.0,0.0,0.0,1.0,Improve
+19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,88.0,1,4,2,3,1,3,1,1,1,2,1,2,1,4,1,1,2.0,1.0,2.0,0.0,Improve
+18.0,Spotify,4.0,Yes,Yes,No,Jazz,Yes,Yes,148.0,4,2,1,1,1,1,4,1,3,2,3,3,1,1,3,2,6.0,4.0,7.0,0.0,Improve
+16.0,Spotify,8.0,Yes,No,No,Hip hop,Yes,Yes,103.0,1,1,1,1,1,4,1,1,1,1,1,1,3,4,1,2,8.0,8.0,4.0,3.0,Improve
+15.0,Spotify,3.0,No,No,No,Hip hop,No,No,120.0,1,1,1,1,1,4,2,1,1,1,2,2,3,4,2,1,7.0,3.0,0.0,2.0,Improve
+15.0,Apple Music,8.0,Yes,No,No,Hip hop,Yes,Yes,120.0,2,1,3,2,1,4,3,4,3,2,2,4,2,4,3,3,6.0,9.0,3.0,0.0,Improve
+17.0,Spotify,4.0,Yes,No,No,Rap,Yes,No,125.0,1,2,2,1,1,3,1,1,1,2,2,3,1,4,3,1,10.0,10.0,2.0,4.0,Improve
+19.0,I do not use a streaming service.,5.0,Yes,No,No,R&B,Yes,Yes,118.0,2,2,3,4,2,4,3,1,1,2,2,2,4,4,3,2,6.0,7.0,5.0,4.0,Improve
+18.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,79.0,2,2,3,1,1,2,1,2,3,1,1,4,1,1,1,2,3.0,3.0,8.0,6.0,No effect
+16.0,Other streaming service,3.0,Yes,Yes,Yes,Rock,Yes,Yes,84.0,2,2,1,2,3,3,3,1,2,1,3,1,3,2,4,3,10.0,6.0,8.0,10.0,Improve
+18.0,Spotify,2.0,No,No,No,Pop,Yes,Yes,169.0,3,2,2,4,2,2,2,4,1,3,1,4,3,3,3,1,7.0,4.0,2.0,5.0,Improve
+18.0,YouTube Music,6.0,Yes,Yes,Yes,Pop,No,Yes,101.0,3,2,2,2,2,3,3,1,1,1,1,4,3,3,1,1,3.0,2.0,1.0,2.0,Improve
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,126.0,1,4,2,2,1,1,2,3,4,2,2,4,2,1,3,3,6.0,6.0,4.0,5.0,Improve
+17.0,Apple Music,1.0,Yes,No,No,Pop,Yes,No,183.0,2,1,1,2,1,1,3,1,1,1,3,3,1,1,3,1,8.0,2.0,1.0,5.0,Improve
+19.0,Spotify,2.0,Yes,No,No,Classical,No,No,120.0,4,1,1,1,1,2,2,1,1,3,1,4,1,1,1,4,4.0,4.0,4.0,3.0,No effect
+17.0,Spotify,4.0,No,No,No,Rock,Yes,Yes,142.0,2,2,2,4,1,3,2,2,1,2,2,4,2,3,4,2,5.0,6.0,6.0,1.0,Improve
+16.0,Spotify,1.0,Yes,No,No,Classical,No,No,75.0,4,1,1,2,1,1,1,1,1,1,2,1,1,1,1,2,0.0,0.0,0.0,0.0,No effect
+18.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,No,120.0,3,2,3,2,3,3,2,3,2,3,2,4,3,3,2,1,3.0,2.0,1.0,1.0,Improve
+21.0,Spotify,4.0,Yes,No,No,Pop,No,Yes,89.0,1,1,2,1,1,3,1,2,2,1,1,4,1,2,1,1,6.0,8.0,0.0,2.0,Improve
+26.0,Other streaming service,0.5,No,No,No,Rock,No,Yes,140.0,2,1,2,3,1,1,2,1,1,1,1,2,1,1,4,1,9.0,8.0,1.0,0.0,No effect
+20.0,Spotify,4.0,Yes,No,No,EDM,Yes,No,161.0,2,2,4,3,2,3,2,3,1,3,2,4,4,3,4,2,7.0,2.0,8.0,6.0,Improve
+23.0,YouTube Music,2.0,Yes,Yes,Yes,Video game music,Yes,No,80.0,3,2,1,2,3,1,3,2,2,2,2,3,3,2,3,4,4.0,2.0,3.0,4.0,Improve
+18.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,130.0,4,1,1,3,1,3,3,2,1,3,4,3,2,3,4,3,7.0,6.0,5.0,0.0,Improve
+37.0,YouTube Music,0.25,No,No,No,Video game music,Yes,No,147.0,4,2,1,2,1,2,3,1,2,1,1,4,3,1,3,3,3.0,2.0,10.0,0.0,No effect
+17.0,Spotify,3.0,Yes,No,No,Classical,Yes,Yes,120.0,4,1,4,1,1,4,3,3,2,3,1,3,4,4,2,3,6.0,6.0,8.0,2.0,Improve
+18.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,77.0,2,1,1,1,1,4,2,1,1,1,4,3,3,4,4,4,1.0,0.0,8.0,2.0,No effect
+17.0,I do not use a streaming service.,1.0,Yes,Yes,Yes,Folk,No,No,118.0,1,3,2,4,1,2,1,1,2,2,2,2,2,3,3,3,7.0,3.0,1.0,5.0,Improve
+36.0,Spotify,1.0,No,Yes,Yes,Classical,No,No,132.0,4,3,1,2,1,1,1,1,1,1,3,2,1,1,3,1,8.0,9.0,3.0,0.0,No effect
+24.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,115.0,2,1,2,3,1,1,1,2,1,4,2,3,1,1,4,3,9.0,6.0,4.0,3.0,Improve
+18.0,Spotify,5.0,Yes,No,Yes,Metal,Yes,Yes,157.0,1,1,2,2,1,4,2,1,2,2,4,3,2,4,4,1,7.0,9.0,5.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,90.0,3,2,3,1,1,4,3,2,1,3,2,4,3,3,3,3,7.0,4.0,2.0,4.0,No effect
+17.0,Apple Music,2.0,Yes,Yes,No,EDM,Yes,No,128.0,1,2,4,1,1,2,1,1,2,2,4,3,3,3,4,2,0.0,0.0,0.0,0.0,Improve
+16.0,Spotify,6.0,Yes,No,No,K pop,Yes,Yes,169.0,2,1,1,2,3,4,2,4,4,4,1,3,4,4,2,1,7.0,8.0,7.0,5.0,Improve
+23.0,Apple Music,1.0,No,No,No,Rap,No,Yes,140.0,3,2,3,2,1,4,4,1,1,1,3,2,2,4,4,2,10.0,6.0,3.0,10.0,No effect
+22.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,Yes,126.0,2,1,2,3,1,2,2,1,1,2,3,4,3,2,4,2,8.0,7.0,4.0,3.0,Improve
+18.0,Spotify,6.0,Yes,No,No,Rock,Yes,No,91.0,2,1,1,2,1,1,1,1,1,1,4,2,1,3,4,1,8.0,6.0,2.0,10.0,No effect
+23.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,55.0,2,4,1,4,4,3,2,1,2,1,3,3,2,2,2,3,6.0,4.0,2.0,3.0,Improve
+23.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,85.0,3,3,3,2,1,2,3,2,2,4,1,3,4,2,3,4,7.0,0.0,0.0,2.0,Improve
+19.0,YouTube Music,1.0,No,Yes,No,K pop,Yes,Yes,160.0,1,1,1,1,1,1,3,4,1,1,1,1,1,1,1,2,10.0,1.0,0.0,0.0,Improve
+22.0,Pandora,1.0,No,Yes,No,Rock,Yes,No,108.0,2,1,3,2,1,1,4,1,1,1,1,3,2,1,4,2,8.0,7.0,0.0,5.0,Improve
+15.0,Other streaming service,2.0,Yes,Yes,No,Rock,No,No,156.0,1,1,2,2,1,1,1,1,1,2,3,3,1,1,4,3,3.0,2.0,6.0,7.0,Improve
+25.0,Spotify,2.0,No,No,No,Metal,No,Yes,170.0,2,2,2,3,1,2,1,2,1,2,4,3,1,2,4,4,5.0,5.0,3.0,1.0,No effect
+32.0,Spotify,5.0,Yes,No,No,Rock,No,Yes,91.0,3,1,2,3,1,3,2,2,1,1,4,4,4,2,4,1,10.0,10.0,3.0,1.0,Worsen
+36.0,Spotify,6.0,Yes,No,No,Metal,Yes,Yes,174.0,4,1,2,4,1,1,1,3,1,2,4,2,1,1,3,4,5.0,4.0,10.0,2.0,Improve
+24.0,Spotify,3.0,No,No,No,Rock,Yes,Yes,130.0,3,3,1,2,1,1,2,1,2,1,4,4,1,1,4,1,0.0,0.0,8.0,0.0,No effect
+29.0,Spotify,4.0,No,No,No,Hip hop,Yes,No,140.0,2,3,2,1,2,4,2,2,2,2,1,3,3,3,3,1,8.0,8.0,5.0,10.0,Improve
+41.0,Apple Music,3.0,Yes,Yes,Yes,Metal,Yes,Yes,130.0,3,1,3,1,1,2,2,1,1,3,3,3,1,2,2,1,10.0,7.0,8.0,0.0,Improve
+36.0,I do not use a streaming service.,2.0,Yes,Yes,Yes,Rock,Yes,No,127.0,3,2,4,3,2,2,4,1,1,1,4,3,2,2,4,3,7.0,3.0,1.0,1.0,Improve
+19.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,No,160.0,2,3,3,2,1,3,2,1,3,3,3,3,4,4,4,2,8.0,7.0,4.0,0.0,Improve
+26.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,165.0,2,2,4,2,2,4,2,2,2,2,2,3,2,4,4,2,6.0,3.0,1.0,1.0,Improve
+22.0,Apple Music,0.5,No,No,No,Hip hop,No,No,113.0,3,1,1,1,1,4,2,1,2,1,1,3,3,4,1,1,7.0,7.0,0.0,1.0,No effect
+16.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,167.0,3,2,1,1,2,2,4,4,2,1,1,4,2,4,3,1,7.0,7.0,8.0,4.0,Improve
+17.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,95.0,1,3,2,2,1,1,1,1,1,1,4,2,1,1,4,3,4.0,1.0,0.0,0.0,Improve
+18.0,YouTube Music,2.0,No,No,No,EDM,No,Yes,150.0,3,2,4,1,2,2,2,1,1,3,1,4,2,3,2,4,9.0,0.0,5.0,10.0,Improve
+18.0,YouTube Music,4.0,Yes,No,No,Hip hop,Yes,Yes,93.0,1,1,2,1,1,4,3,3,2,3,1,4,4,4,3,2,2.0,7.0,1.0,1.0,Improve
+19.0,Spotify,5.0,No,Yes,Yes,Rock,Yes,Yes,90.0,2,1,1,2,1,3,4,1,4,2,3,2,3,2,4,2,10.0,8.0,7.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Jazz,Yes,No,118.0,2,1,2,1,1,4,4,2,3,4,1,3,3,3,2,4,3.0,0.0,0.0,0.0,Improve
+22.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,126.0,1,1,4,1,1,3,1,4,1,1,1,3,1,3,4,2,7.0,8.0,5.0,1.0,No effect
+16.0,Spotify,2.5,Yes,Yes,Yes,Rock,Yes,Yes,103.0,2,3,1,4,1,2,3,1,3,3,2,4,2,1,4,2,2.0,1.0,0.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,R&B,Yes,Yes,77.0,2,1,3,1,1,4,2,4,2,2,2,4,4,4,2,4,5.0,4.0,0.0,1.0,Improve
+37.0,Spotify,1.0,Yes,No,No,Rock,No,No,115.0,2,2,2,2,1,2,2,2,1,2,2,3,2,2,4,1,9.0,10.0,6.0,10.0,No effect
+14.0,Spotify,7.0,Yes,Yes,No,Jazz,No,No,110.0,2,1,4,1,1,1,4,1,3,1,1,3,1,1,4,4,2.0,0.0,0.0,0.0,Improve
+26.0,Spotify,1.0,No,No,No,R&B,No,No,113.0,2,3,1,3,1,4,4,1,1,1,4,4,4,4,4,1,3.0,2.0,0.0,0.0,No effect
+32.0,Spotify,3.0,Yes,No,No,Hip hop,No,No,157.0,1,1,2,1,1,4,1,1,3,2,1,3,4,4,2,1,2.0,0.0,7.0,0.0,No effect
+30.0,Spotify,5.0,Yes,Yes,No,Metal,Yes,No,160.0,3,2,1,3,1,2,1,1,1,1,4,3,1,1,4,1,7.0,6.0,6.0,2.0,No effect
+43.0,I do not use a streaming service.,6.0,Yes,Yes,Yes,Video game music,Yes,Yes,109.0,3,2,4,2,2,2,2,3,2,4,2,3,2,1,3,4,5.0,4.0,8.0,3.0,No effect
+24.0,Spotify,4.0,Yes,No,No,Classical,Yes,Yes,175.0,4,2,2,1,1,2,2,1,1,1,3,4,2,1,4,2,4.0,6.0,5.0,3.0,Improve
+36.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,110.0,3,2,1,1,1,1,1,1,1,1,2,3,2,2,4,1,6.0,2.0,3.0,1.0,Improve
+19.0,YouTube Music,4.0,Yes,No,No,Video game music,Yes,No,162.0,2,1,2,1,1,2,3,1,1,3,1,3,1,1,2,4,8.0,2.0,1.0,6.0,Improve
+20.0,Spotify,3.0,No,No,Yes,EDM,Yes,Yes,121.0,2,3,4,1,1,3,1,2,1,3,1,3,1,3,3,2,0.0,3.0,7.0,0.0,Improve
+31.0,Spotify,2.0,No,No,No,Rock,Yes,No,200.0,2,2,1,2,1,2,2,1,1,2,3,3,1,2,4,1,8.0,9.0,6.0,2.0,Improve
+19.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,105.0,3,1,1,1,1,3,3,2,1,1,3,3,2,3,4,2,4.0,1.0,1.0,1.0,Improve
+15.0,Spotify,8.0,Yes,No,No,Rock,No,No,193.0,1,1,1,1,1,1,1,1,1,1,3,2,1,1,4,2,8.0,7.0,5.0,0.0,Improve
+18.0,Spotify,2.0,No,Yes,Yes,Metal,Yes,Yes,149.0,1,1,2,1,1,3,1,1,1,1,4,3,1,2,4,2,3.0,4.0,6.0,1.0,Improve
+25.0,I do not use a streaming service.,0.5,No,Yes,No,Classical,No,No,140.0,4,1,1,1,2,1,3,1,3,1,2,2,2,1,4,3,1.0,1.0,3.0,1.0,Improve
+17.0,Apple Music,5.0,Yes,No,No,Metal,Yes,No,134.0,1,2,1,1,1,3,1,1,1,2,4,3,3,3,4,2,10.0,8.0,6.0,7.0,No effect
+28.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,120.0,2,1,4,3,1,1,1,1,1,2,2,2,1,1,3,2,6.0,6.0,2.0,0.0,No effect
+20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,170.0,1,1,2,1,1,2,1,3,1,2,2,3,3,2,4,3,6.0,7.0,0.0,0.0,Improve
+21.0,YouTube Music,2.0,Yes,Yes,No,Metal,Yes,Yes,107.0,3,2,1,4,1,1,2,1,1,2,4,2,1,2,3,4,8.0,4.0,10.0,0.0,No effect
+41.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,113.0,3,1,2,2,2,4,3,2,2,1,2,4,4,3,4,1,9.0,7.0,6.0,2.0,No effect
+20.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,126.0,1,1,3,1,1,2,1,1,1,1,1,4,1,2,4,3,7.0,4.0,6.0,5.0,Improve
+34.0,Other streaming service,4.0,Yes,No,No,Metal,Yes,Yes,161.0,2,1,3,1,1,3,2,1,1,1,4,2,1,3,3,2,6.0,7.0,0.0,0.0,No effect
+23.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,100.0,2,1,1,2,1,1,1,1,1,3,4,2,1,1,3,2,6.0,3.0,0.0,1.0,Improve
+16.0,Spotify,3.0,No,No,No,Pop,No,No,140.0,2,1,1,1,1,3,2,1,2,1,1,4,3,2,1,1,7.0,5.0,5.0,3.0,Improve
+19.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,156.0,2,2,2,2,1,3,2,2,1,1,2,4,2,3,3,3,7.0,10.0,5.0,0.0,Improve
+22.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,98.0,3,1,1,2,1,3,3,1,3,2,2,4,3,3,4,3,8.0,6.0,0.0,0.0,Improve
+19.0,Spotify,8.0,Yes,No,No,K pop,Yes,Yes,100.0,4,1,2,1,1,3,3,4,1,4,1,4,3,2,2,2,4.0,3.0,0.0,0.0,Improve
+23.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,78.0,2,1,3,3,1,4,2,4,3,4,2,4,4,4,3,3,7.0,6.0,7.0,5.0,Improve
+23.0,Spotify,2.0,No,Yes,No,Metal,No,Yes,117.0,1,1,2,1,1,2,2,1,1,1,4,1,1,2,3,1,7.0,3.0,2.0,3.0,Improve
+22.0,Spotify,1.0,No,No,Yes,EDM,Yes,No,128.0,1,1,4,1,2,3,3,1,1,1,1,4,4,3,3,1,2.0,7.0,5.0,0.0,Improve
+17.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,130.0,2,3,3,3,1,2,2,2,1,4,3,4,4,3,4,3,7.0,8.0,6.0,5.0,Improve
+28.0,Spotify,0.5,No,No,No,Folk,Yes,No,130.0,2,3,1,4,1,2,2,1,1,1,1,3,1,2,4,2,4.0,7.0,1.0,0.0,Improve
+19.0,Apple Music,3.0,Yes,No,No,Rock,Yes,Yes,126.0,1,3,3,1,1,4,1,1,1,2,2,2,2,3,4,3,5.0,2.0,8.0,6.0,Improve
+17.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,122.0,2,1,3,3,1,4,3,2,2,2,4,2,2,4,4,1,10.0,7.0,4.0,2.0,Improve
+21.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,179.0,1,2,1,2,1,3,2,1,1,4,3,2,3,3,4,2,6.0,5.0,0.0,0.0,No effect
+29.0,Other streaming service,5.0,Yes,No,No,Jazz,Yes,Yes,200.0,2,1,1,2,1,1,4,1,2,2,2,1,3,1,4,3,7.0,2.0,3.0,1.0,Improve
+18.0,Spotify,4.0,Yes,Yes,Yes,Pop,Yes,Yes,130.0,3,2,3,2,1,2,3,3,3,3,4,4,2,2,4,4,4.0,5.0,6.0,5.0,Improve
+13.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,120.0,2,1,3,4,2,3,1,1,1,3,3,4,2,4,4,4,7.0,10.0,5.0,6.0,Worsen
+24.0,Spotify,1.0,No,No,No,Metal,Yes,No,86.0,3,1,2,2,1,2,1,1,1,1,4,3,3,3,4,2,6.0,4.0,5.0,0.0,Improve
+35.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,166.0,3,2,3,4,1,2,3,2,2,3,3,3,2,2,4,3,4.0,1.0,3.0,1.0,No effect
+29.0,YouTube Music,1.0,Yes,Yes,No,Video game music,Yes,No,110.0,3,1,1,2,3,1,2,1,1,1,1,3,2,1,3,3,6.0,6.0,1.0,2.0,Improve
+28.0,Spotify,6.0,Yes,No,No,Rock,No,No,144.0,3,2,1,3,1,2,2,1,2,2,3,3,3,2,4,4,10.0,8.0,7.0,1.0,Improve
+32.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,120.0,3,1,2,1,1,3,2,1,1,2,2,4,4,4,4,4,10.0,8.0,2.0,8.0,Improve
+32.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,120.0,2,1,4,2,2,3,2,1,2,2,1,3,2,2,2,1,3.0,6.0,2.0,0.0,No effect
+21.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,160.0,1,1,1,4,1,3,1,1,1,3,4,2,1,2,4,3,8.0,9.0,2.0,0.0,Improve
+18.0,Spotify,2.0,Yes,Yes,No,Video game music,No,Yes,101.0,1,1,3,1,1,2,1,1,1,2,1,2,1,1,3,4,8.0,3.0,8.0,7.0,Improve
+19.0,Spotify,3.0,Yes,Yes,No,Classical,Yes,No,122.0,4,2,1,1,1,1,1,2,1,3,1,4,1,1,2,3,3.0,3.0,1.0,2.0,Improve
+25.0,Spotify,1.5,Yes,No,No,Pop,No,No,61.0,3,2,2,3,1,2,1,1,1,2,2,4,4,2,4,1,6.0,5.0,0.0,2.0,Improve
+17.0,Spotify,4.0,Yes,No,No,Lofi,Yes,Yes,79.0,4,1,1,1,3,3,2,3,1,4,1,4,3,3,2,4,3.0,8.0,0.0,0.0,Improve
+16.0,Spotify,2.0,Yes,No,No,Rap,Yes,Yes,126.0,4,1,1,1,1,4,1,3,1,2,1,4,4,4,1,3,1.0,8.0,0.0,0.0,No effect
+53.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,92.0,4,3,4,2,2,3,3,2,3,2,2,4,4,2,4,2,0.0,0.0,0.0,0.0,Improve
+25.0,Spotify,1.0,Yes,No,No,EDM,No,No,107.0,1,1,4,1,1,2,1,2,1,2,1,1,1,1,2,2,0.0,8.0,0.0,0.0,Improve
+34.0,Spotify,2.0,No,No,No,Metal,No,No,120.0,1,1,2,1,1,1,1,1,1,1,4,2,1,1,3,1,3.0,7.0,0.0,0.0,Improve
+22.0,Other streaming service,6.0,Yes,Yes,Yes,Jazz,Yes,Yes,140.0,3,2,4,4,2,4,4,2,3,3,3,4,4,4,3,3,8.0,8.0,8.0,5.0,Improve
+17.0,Spotify,2.0,Yes,Yes,Yes,Jazz,Yes,No,94.0,3,1,1,1,1,2,3,1,1,2,3,4,1,2,4,2,5.0,2.0,3.0,4.0,Improve
+26.0,Spotify,3.0,Yes,Yes,No,Folk,Yes,No,160.0,2,2,1,4,2,2,3,1,1,2,2,3,3,2,3,3,8.0,8.0,3.0,0.0,Improve
+19.0,Spotify,8.0,Yes,No,No,EDM,Yes,No,174.0,1,1,4,1,1,3,1,2,1,1,2,3,3,3,3,1,6.0,8.0,8.0,0.0,Improve
+21.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,136.0,2,4,3,2,1,4,2,1,4,3,2,4,4,4,3,3,6.0,8.0,6.0,0.0,Worsen
+32.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,144.0,2,2,3,4,1,3,2,1,3,4,2,3,4,2,4,2,6.0,6.0,7.0,5.0,Improve
+21.0,I do not use a streaming service.,3.0,Yes,No,No,Rock,No,No,77.0,1,1,1,3,3,3,3,1,2,1,2,2,2,3,4,4,9.0,10.0,3.0,0.0,No effect
+25.0,Spotify,2.0,No,Yes,No,Pop,No,No,120.0,2,1,1,2,1,3,1,1,3,1,1,4,3,4,4,2,7.0,7.0,5.0,0.0,Improve
+28.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,194.0,2,3,2,2,1,3,3,2,1,1,3,3,2,2,4,3,6.0,8.0,1.0,6.0,Improve
+41.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,60.0,2,1,3,4,1,4,3,2,2,3,2,4,4,3,4,2,7.0,2.0,0.0,7.0,Improve
+18.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,190.0,2,1,2,1,1,3,1,1,1,1,4,2,1,3,4,3,6.0,9.0,9.0,0.0,Improve
+22.0,Spotify,2.0,No,No,No,R&B,No,Yes,87.0,3,1,1,1,1,2,1,4,4,3,1,3,4,2,2,3,1.0,1.0,4.0,1.0,No effect
+49.0,Other streaming service,1.0,Yes,No,No,EDM,Yes,No,156.0,3,1,4,3,1,3,2,2,2,3,3,3,2,2,4,3,8.0,8.0,2.0,0.0,Improve
+21.0,Spotify,3.0,Yes,Yes,Yes,Metal,Yes,No,150.0,3,2,2,3,1,2,2,2,1,3,4,4,2,3,4,3,3.0,3.0,7.0,0.0,No effect
+19.0,Spotify,1.0,No,No,Yes,Metal,Yes,Yes,160.0,1,1,1,1,1,2,1,1,1,3,4,3,2,2,4,1,6.0,4.0,0.0,3.0,No effect
+27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,171.0,3,1,1,2,1,3,2,1,1,2,4,1,2,3,3,2,1.0,0.0,0.0,0.0,Improve
+27.0,Spotify,1.5,Yes,No,No,Rock,No,No,95.0,1,1,1,2,1,3,1,2,1,2,4,3,1,3,4,3,5.0,5.0,4.0,4.0,Improve
+42.0,YouTube Music,2.5,Yes,Yes,No,Rock,No,Yes,148.0,3,2,4,2,1,3,4,1,2,2,3,2,2,2,3,2,8.0,8.0,7.0,6.0,Improve
+60.0,Pandora,2.0,Yes,No,No,Gospel,No,No,119.0,2,3,1,2,4,1,1,1,2,1,1,3,2,1,3,1,3.0,0.0,2.0,0.0,Improve
+19.0,YouTube Music,5.0,Yes,No,No,Metal,No,Yes,136.0,3,2,2,3,3,3,2,1,1,4,4,1,1,3,4,3,0.0,5.0,1.0,0.0,No effect
+20.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,141.0,2,1,1,2,1,3,2,1,1,3,1,4,3,2,3,2,6.0,3.0,0.0,0.0,Improve
+28.0,Spotify,2.0,No,No,Yes,Metal,No,No,146.0,2,1,1,2,1,2,1,1,1,1,4,2,1,1,3,2,1.0,7.0,5.0,1.0,Improve
+18.0,Spotify,2.0,Yes,No,No,R&B,No,Yes,164.0,3,1,1,1,1,2,1,1,1,2,1,4,4,2,1,1,5.0,6.0,0.0,1.0,No effect
+21.0,Spotify,5.0,Yes,Yes,Yes,Folk,Yes,Yes,128.0,3,2,1,4,2,2,3,1,2,3,2,4,3,2,4,2,9.0,4.0,0.0,3.0,Improve
+21.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,No,Yes,101.0,2,3,2,3,1,4,2,1,4,4,4,4,4,4,4,2,8.0,8.0,3.0,0.0,Improve
+18.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,98.0,4,1,1,2,2,3,3,4,2,4,1,3,4,3,1,2,7.0,2.0,3.0,5.0,Improve
+16.0,Apple Music,2.0,No,No,No,Pop,Yes,No,145.0,1,3,2,3,2,2,1,2,1,3,1,4,2,2,4,2,10.0,3.5,5.0,10.0,Improve
+19.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,94.0,2,3,2,2,1,3,2,1,1,2,2,4,3,3,4,1,7.0,5.0,1.0,2.0,Improve
+31.0,Spotify,4.0,Yes,Yes,No,Classical,No,Yes,103.0,4,1,2,1,2,3,2,1,3,1,3,2,1,3,3,1,6.0,8.0,9.0,5.0,Improve
+16.0,Spotify,2.0,Yes,Yes,Yes,Rock,No,No,112.0,2,1,4,2,1,1,1,1,1,2,2,3,2,1,4,4,7.0,4.0,10.0,2.0,Improve
+17.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,118.0,2,2,1,1,3,3,2,4,1,2,1,3,4,3,1,2,6.0,1.0,0.0,0.0,Improve
+20.0,Apple Music,4.0,Yes,No,No,R&B,Yes,Yes,113.0,3,2,1,2,1,3,3,2,1,2,1,3,4,4,4,2,9.0,10.0,3.0,0.0,Improve
+30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,162.0,3,3,2,3,1,2,1,1,1,1,3,3,1,2,4,1,8.0,5.0,8.0,9.0,Improve
+19.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,111.0,3,2,1,3,2,2,3,2,2,2,4,3,2,2,4,3,9.0,9.0,9.0,3.0,No effect
+33.0,Spotify,7.0,Yes,No,No,Rock,Yes,Yes,134.0,2,3,3,3,2,4,2,2,3,3,3,4,4,4,4,3,9.0,3.0,7.0,8.0,Improve
+28.0,YouTube Music,2.0,Yes,No,No,Rock,Yes,No,172.0,1,2,2,2,1,3,1,2,1,3,2,3,4,2,4,2,10.0,8.0,6.0,2.0,Improve
+25.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,180.0,2,1,3,3,1,2,1,2,1,3,4,3,2,2,4,3,9.0,6.0,3.0,0.0,Improve
+22.0,YouTube Music,2.0,Yes,No,No,Pop,No,No,120.0,2,1,2,2,2,2,2,1,1,2,1,4,2,2,3,3,7.0,7.0,8.0,3.0,Improve
+19.0,Spotify,3.0,Yes,No,Yes,Rock,Yes,Yes,76.0,3,1,3,3,1,1,1,1,1,2,2,2,2,1,4,2,9.0,10.0,4.0,0.0,Improve
+44.0,Other streaming service,3.0,Yes,No,No,Folk,Yes,Yes,130.0,2,2,2,4,2,3,2,1,2,3,1,2,3,3,2,3,9.0,9.0,8.0,2.0,Improve
+26.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,109.0,3,2,4,2,2,2,3,3,1,2,4,3,3,2,3,3,10.0,9.0,8.0,8.0,Improve
+23.0,I do not use a streaming service.,6.0,Yes,No,Yes,Classical,No,Yes,96.0,4,1,1,2,1,1,1,1,2,1,1,2,1,1,1,2,6.0,5.0,6.0,8.0,Improve
+17.0,Spotify,2.0,No,No,No,R&B,No,Yes,148.0,3,1,2,1,1,4,2,2,1,2,1,3,4,3,1,2,8.0,6.0,10.0,3.0,Improve
+30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,129.0,2,1,2,2,1,2,2,1,2,2,2,4,2,2,4,2,4.0,2.0,1.0,3.0,Improve
+35.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,81.0,3,2,3,2,1,3,2,2,1,1,1,4,2,2,3,2,2.0,1.0,1.0,1.0,No effect
+20.0,Spotify,3.0,No,No,No,Rock,Yes,No,136.0,1,4,1,1,1,1,1,1,1,1,4,4,1,3,4,2,10.0,10.0,7.0,3.0,Improve
+18.0,Spotify,3.0,Yes,No,No,Rap,Yes,Yes,155.0,2,1,1,3,1,4,3,1,3,3,1,4,2,4,4,4,8.0,9.0,0.0,0.0,Improve
+19.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,52.0,1,1,2,4,1,2,2,1,4,2,3,4,2,3,4,2,4.0,2.0,0.0,0.0,Improve
+37.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,97.0,2,3,3,3,1,4,2,1,1,3,3,3,4,4,4,1,9.0,2.0,7.0,7.0,Improve
+31.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,92.0,3,2,2,3,1,3,2,2,3,4,4,3,3,3,4,4,8.0,6.0,7.0,5.0,Improve
+29.0,Spotify,2.0,Yes,Yes,No,Folk,Yes,Yes,100.0,1,3,2,4,3,2,2,2,2,2,3,2,4,2,4,2,6.0,5.0,4.0,2.0,Improve
+20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,120.0,3,2,2,4,1,2,3,1,1,3,3,4,2,2,4,3,8.0,5.0,2.0,3.0,Improve
+36.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Video game music,No,Yes,143.0,3,2,3,2,1,2,2,1,1,1,4,2,1,2,3,4,7.0,6.0,6.0,1.0,No effect
+18.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,118.0,3,1,1,2,1,1,3,1,1,2,2,3,1,1,4,2,10.0,2.0,0.0,0.0,Improve
+18.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,130.0,2,1,3,1,1,1,1,4,1,1,2,3,1,1,2,1,6.0,0.0,0.0,0.0,Improve
+25.0,Spotify,7.0,Yes,No,No,Pop,No,Yes,120.0,1,3,4,2,2,3,1,4,2,2,2,4,3,3,2,3,2.0,0.0,1.0,0.0,Improve
+31.0,YouTube Music,9.0,Yes,No,No,Pop,Yes,Yes,158.0,2,2,2,3,1,1,2,2,2,4,3,4,1,2,3,3,9.0,0.0,2.0,0.0,Improve
+17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,160.0,2,2,2,2,2,3,3,3,1,1,2,4,2,3,3,1,5.0,4.0,1.0,1.0,Improve
+30.0,Other streaming service,1.0,No,No,No,Country,No,No,119.0,1,4,1,1,1,3,1,1,1,1,1,4,2,3,3,2,8.0,10.0,2.0,0.0,Improve
+40.0,Apple Music,2.0,Yes,No,No,Metal,Yes,Yes,120.0,3,1,3,2,1,2,2,1,1,2,4,2,2,2,4,1,3.0,6.0,2.0,1.0,No effect
+64.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,No,No,200.0,3,2,3,2,1,2,3,2,2,1,2,3,2,2,3,2,4.0,4.0,2.0,1.0,Improve
+14.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,136.0,2,1,1,3,1,3,2,1,1,1,3,4,2,3,4,2,7.0,5.0,2.0,6.0,Improve
+26.0,YouTube Music,6.0,Yes,No,No,Rock,Yes,No,104.0,3,1,1,2,1,2,3,1,1,1,2,3,1,2,4,1,3.0,2.0,0.0,0.0,No effect
+35.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,90.0,2,4,2,3,2,4,3,2,3,3,3,3,2,3,4,1,9.0,9.0,5.0,1.0,Improve
+33.0,Other streaming service,1.0,No,No,No,Rock,No,No,120.0,1,1,1,1,1,3,1,1,2,1,1,3,2,2,4,1,3.0,10.0,4.0,1.0,No effect
+30.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,89.0,3,2,1,4,2,1,2,1,1,3,3,2,1,1,4,1,9.0,0.0,5.0,0.0,No effect
+27.0,Spotify,5.0,Yes,No,Yes,Folk,Yes,Yes,140.0,2,1,3,4,3,2,2,3,3,4,3,4,3,1,4,4,0.0,9.0,4.0,0.0,Improve
+53.0,I do not use a streaming service.,1.5,No,No,No,Pop,Yes,Yes,92.0,2,1,4,3,1,3,1,2,3,1,1,4,2,3,3,1,2.0,2.0,2.0,1.0,No effect
+23.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,120.0,3,2,1,2,1,1,2,1,1,1,4,2,1,1,4,1,6.0,9.0,2.0,1.0,Improve
+25.0,Spotify,2.0,Yes,No,Yes,EDM,Yes,No,128.0,2,2,4,2,1,3,3,3,1,2,4,4,2,3,4,2,6.0,4.0,1.0,0.0,Improve
+16.0,Apple Music,4.0,Yes,Yes,No,K pop,Yes,Yes,140.0,4,2,2,3,2,4,3,4,3,4,4,4,3,2,3,2,8.0,9.0,4.0,0.0,Improve
+31.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,136.0,2,2,4,2,1,3,1,1,1,2,2,3,3,3,3,3,8.0,6.0,5.0,6.0,No effect
+31.0,Spotify,1.0,No,No,No,Rock,No,Yes,132.0,3,2,1,1,1,2,1,1,3,1,3,2,2,2,4,3,3.0,10.0,0.0,0.0,Worsen
+38.0,Spotify,6.0,Yes,Yes,No,Pop,Yes,Yes,107.0,4,3,3,3,3,4,4,2,3,3,2,4,4,4,3,1,9.0,4.0,9.0,7.0,Improve
+17.0,Spotify,4.0,No,Yes,No,Classical,Yes,Yes,135.0,4,1,1,1,1,4,4,2,4,3,3,2,3,2,1,2,7.0,9.0,2.0,8.0,Worsen
+25.0,Apple Music,2.0,No,No,No,EDM,No,Yes,171.0,1,3,4,2,1,1,1,1,1,1,2,3,1,1,4,2,10.0,3.0,1.0,4.0,Improve
+15.0,Spotify,2.0,Yes,No,No,EDM,No,No,171.0,1,1,4,1,1,3,1,1,1,1,1,2,2,3,1,2,9.0,6.0,1.0,7.0,No effect
+16.0,Spotify,4.0,Yes,No,Yes,Lofi,Yes,No,85.0,2,2,4,2,1,2,2,1,1,4,2,3,1,2,2,4,7.0,1.0,3.0,5.0,Improve
+20.0,Spotify,2.0,Yes,Yes,No,EDM,No,Yes,174.0,3,1,4,1,1,3,1,3,1,1,1,3,1,1,3,3,9.0,7.0,5.0,7.0,Improve
+23.0,Other streaming service,6.0,Yes,No,No,Rap,Yes,Yes,87.0,1,1,3,3,1,2,1,3,3,1,1,4,4,3,2,1,3.0,1.0,2.0,7.0,Improve
+22.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,77.0,2,1,3,2,1,4,2,1,3,2,3,4,3,4,3,2,6.0,6.0,8.0,0.0,Improve
+15.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,Yes,Yes,126.0,2,1,4,2,1,1,1,1,1,3,2,4,1,1,4,3,10.0,6.0,0.0,4.0,Improve
+17.0,I do not use a streaming service.,0.5,Yes,Yes,No,Video game music,No,Yes,136.0,2,3,3,1,1,1,2,1,1,1,2,3,2,2,3,4,6.0,3.0,1.0,1.0,Improve
+22.0,YouTube Music,1.0,Yes,No,No,Video game music,Yes,Yes,80.0,2,1,2,3,1,2,1,1,1,3,1,2,1,1,2,4,3.0,3.0,0.0,7.0,No effect
+19.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,120.0,2,1,3,2,1,2,3,3,3,3,1,4,4,3,4,4,7.0,5.0,0.0,2.0,No effect
+34.0,YouTube Music,1.0,No,No,No,Rock,No,Yes,138.0,2,1,1,3,1,2,1,1,2,1,1,2,1,3,4,1,9.0,9.0,6.0,4.0,Improve
+18.0,I do not use a streaming service.,2.0,Yes,Yes,No,Metal,Yes,Yes,150.0,3,1,2,1,1,1,1,1,1,1,4,2,1,2,4,3,5.0,7.0,7.0,2.0,Improve
+21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,108.0,2,4,1,3,2,2,1,1,1,1,2,3,1,1,4,3,0.0,8.0,0.0,5.0,Improve
+20.0,Spotify,3.0,No,No,No,Country,Yes,Yes,119.0,2,4,2,3,1,3,2,3,1,1,1,4,4,2,3,1,8.0,4.0,3.0,4.0,Improve
+19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,125.0,2,4,2,3,2,1,1,1,2,2,3,2,1,1,3,1,7.0,2.0,0.0,7.0,No effect
+21.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,85.0,4,2,2,3,1,2,1,3,1,2,4,4,3,4,3,4,5.0,1.0,0.0,0.0,Improve
+31.0,YouTube Music,1.0,No,No,Yes,Folk,Yes,Yes,113.0,4,1,1,3,1,2,1,1,2,1,1,1,1,1,3,1,4.0,1.0,3.0,0.0,Improve
+20.0,YouTube Music,1.0,No,No,No,Pop,Yes,No,86.0,2,1,1,2,1,1,1,1,1,2,2,4,1,1,3,1,3.0,5.0,3.0,0.0,Improve
+19.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,141.0,3,2,1,1,1,2,3,1,1,1,4,3,3,2,4,1,2.0,2.0,0.0,6.0,Improve
+19.0,Other streaming service,5.0,Yes,No,No,EDM,Yes,Yes,97.0,2,1,4,3,1,3,2,1,3,4,4,2,1,4,3,2,0.0,1.0,3.0,5.0,Improve
+24.0,I do not use a streaming service.,8.0,Yes,No,Yes,Video game music,Yes,No,120.0,3,2,4,2,2,4,4,2,2,4,4,2,2,3,4,4,6.0,4.0,8.0,8.0,Improve
+20.0,Other streaming service,0.7,No,No,No,Rock,No,No,144.0,2,1,1,1,1,1,1,1,1,3,2,4,2,1,4,2,5.0,6.0,8.0,2.0,Improve
+15.0,Spotify,3.0,No,No,No,Video game music,No,No,84.0,2,2,3,2,2,3,2,1,1,4,2,4,1,1,4,4,6.0,6.0,2.0,6.0,No effect
+17.0,Spotify,7.0,Yes,No,No,Hip hop,No,Yes,84.0,1,1,2,1,2,4,1,1,1,2,2,2,2,4,2,2,8.0,9.0,3.0,4.0,Improve
+20.0,I do not use a streaming service.,1.5,No,Yes,Yes,Video game music,No,Yes,60.0,4,1,1,2,2,1,1,1,3,1,1,1,1,1,1,4,8.0,4.0,3.0,3.0,Worsen
+14.0,Spotify,4.0,Yes,Yes,Yes,Video game music,Yes,Yes,81.0,3,1,3,2,1,2,3,3,1,4,1,3,2,2,1,4,8.0,6.0,5.0,7.0,Improve
+24.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,150.0,3,2,1,2,2,2,1,1,1,1,4,3,2,2,4,1,8.0,8.0,7.0,7.0,Improve
+23.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,138.0,4,1,2,2,1,3,3,1,2,2,2,3,3,3,4,3,6.0,8.0,4.0,2.0,No effect
+22.0,Spotify,6.0,Yes,No,No,Jazz,Yes,Yes,140.0,3,2,4,2,2,2,4,3,1,3,3,3,3,2,4,3,8.0,8.0,7.0,1.0,Improve
+25.0,Spotify,0.5,Yes,Yes,No,Rock,Yes,Yes,139.0,2,1,4,1,1,2,1,2,1,1,2,3,2,2,4,3,10.0,2.0,0.0,0.0,Improve
+27.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,Yes,100.0,3,2,4,1,1,3,4,4,3,3,3,4,4,2,3,3,8.0,7.0,7.0,5.0,Improve
+17.0,Apple Music,3.0,Yes,Yes,Yes,Pop,Yes,No,120.0,2,2,1,3,1,3,4,1,2,1,3,4,4,4,4,1,8.0,10.0,9.0,2.0,Improve
+40.0,Other streaming service,3.0,Yes,No,No,Rock,Yes,Yes,178.0,3,1,1,1,1,1,2,1,1,2,3,3,2,1,3,1,0.0,4.0,4.0,0.0,Improve
+18.0,Spotify,1.0,No,No,No,Pop,Yes,No,100.0,2,2,1,2,2,3,1,1,1,1,1,4,2,3,3,2,3.0,2.0,0.0,1.0,No effect
+16.0,Spotify,2.5,No,Yes,Yes,Metal,Yes,No,110.0,1,1,1,1,1,1,2,1,1,2,4,1,1,2,4,3,5.0,3.0,3.0,1.0,Improve
+18.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,108.0,3,2,1,3,1,3,1,1,1,1,3,3,2,2,4,2,8.0,9.0,6.0,1.0,Improve
+15.0,I do not use a streaming service.,5.0,Yes,Yes,No,Metal,Yes,No,161.0,1,1,2,1,1,1,1,1,1,1,4,2,1,2,3,1,6.0,7.0,8.0,2.0,Improve
+20.0,Apple Music,3.0,Yes,Yes,No,Metal,Yes,No,200.0,3,2,1,1,1,2,3,1,1,2,4,2,1,2,4,3,7.0,4.0,7.0,0.0,Improve
+16.0,Spotify,0.5,No,No,No,Rock,No,Yes,156.0,3,1,2,1,1,2,2,1,1,1,1,3,1,1,4,3,8.0,0.0,0.0,0.0,Improve
+20.0,Apple Music,8.0,Yes,Yes,Yes,Country,Yes,No,120.0,1,4,1,3,1,2,1,1,1,1,1,2,2,2,3,1,8.0,9.0,2.0,5.0,No effect
+22.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,90.0,1,4,2,3,1,2,3,1,4,1,2,3,4,3,4,1,10.0,10.0,4.0,0.0,Improve
+21.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,85.0,1,1,2,1,1,4,2,1,1,3,1,4,4,4,4,1,8.0,8.0,3.0,3.0,Improve
+21.0,Apple Music,5.0,Yes,Yes,No,Metal,Yes,Yes,171.0,2,1,3,1,1,4,3,1,1,3,4,2,3,4,3,3,8.0,7.0,7.0,4.0,Improve
+29.0,Apple Music,1.5,Yes,No,Yes,Rock,Yes,Yes,108.0,2,1,3,1,1,2,2,1,1,1,2,4,4,4,4,1,8.0,7.0,1.0,2.0,Improve
+56.0,I do not use a streaming service.,1.0,Yes,No,No,Pop,No,No,105.0,1,2,1,2,1,1,1,1,1,1,1,3,3,1,3,1,6.0,5.0,10.0,2.0,No effect
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,76.0,3,1,1,1,1,2,2,1,1,2,1,4,2,2,1,2,7.0,6.0,0.0,4.0,Improve
+22.0,Spotify,1.0,Yes,No,No,Pop,No,No,108.0,2,2,3,1,1,1,2,1,1,1,1,4,1,1,2,2,7.0,4.0,0.0,0.0,Improve
+26.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,140.0,3,3,2,2,1,3,1,2,1,2,1,4,2,2,4,2,8.0,7.0,2.0,10.0,No effect
+30.0,Spotify,1.0,Yes,No,No,EDM,Yes,Yes,200.0,1,1,4,1,1,3,1,1,1,1,2,1,1,3,1,1,4.0,4.0,4.0,0.0,Improve
+49.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,147.0,2,2,3,4,1,3,2,1,1,3,2,3,3,3,2,2,0.0,0.0,2.0,0.0,No effect
+22.0,Spotify,2.0,Yes,Yes,Yes,EDM,Yes,Yes,120.0,2,3,4,3,2,3,3,2,2,3,4,3,3,4,3,4,6.0,4.0,0.0,1.0,Improve
+32.0,Spotify,2.0,No,No,No,Rock,Yes,No,158.0,1,2,3,2,1,3,1,1,1,3,2,3,3,3,3,1,4.0,7.0,0.0,0.0,Improve
+32.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,110.0,2,3,1,3,1,1,1,1,2,1,3,4,2,1,4,1,8.0,4.0,3.0,0.0,No effect
+22.0,YouTube Music,6.0,Yes,No,No,Country,Yes,No,103.0,1,4,1,2,1,3,1,1,2,1,3,1,1,3,4,2,5.0,5.0,3.0,3.0,Improve
+17.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,93.0,1,2,3,3,2,2,3,2,2,2,4,4,3,3,4,3,0.0,8.0,0.0,0.0,Improve
+21.0,Spotify,4.0,Yes,Yes,No,Rock,Yes,No,62.0,2,1,1,2,1,1,1,1,1,1,2,4,2,1,4,1,7.0,4.0,6.0,1.0,Improve
+17.0,Spotify,1.5,Yes,No,No,Rock,Yes,Yes,180.0,4,1,2,2,1,1,1,1,4,2,2,3,3,2,4,2,8.0,7.0,7.0,3.0,No effect
+25.0,Spotify,3.0,Yes,No,No,Metal,No,No,150.0,3,3,2,2,1,1,1,1,1,1,4,3,3,1,4,3,9.0,8.0,6.0,2.0,Improve
+15.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,No,105.0,1,1,2,1,1,2,1,3,1,4,3,4,3,2,4,1,8.0,6.0,4.0,0.0,Improve
+23.0,Apple Music,3.0,No,No,No,Rock,Yes,No,161.0,2,1,3,3,1,2,1,1,1,2,2,3,1,1,4,3,7.0,6.0,4.0,2.0,Improve
+17.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,120.0,3,3,3,2,2,4,2,4,1,4,1,4,4,4,4,2,1.0,1.0,1.0,0.0,Improve
+59.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,103.0,2,1,4,2,1,2,3,2,2,2,1,4,4,2,3,1,1.0,1.0,3.0,0.0,Improve
+22.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,72.0,2,2,1,2,2,3,3,1,2,2,1,4,4,3,3,2,2.0,7.0,1.0,2.0,Improve
+17.0,Apple Music,3.0,Yes,No,No,Pop,Yes,Yes,113.0,3,2,1,1,1,4,3,4,2,1,1,4,2,4,3,2,6.0,2.0,3.0,1.0,No effect
+27.0,Spotify,2.0,No,No,No,Pop,No,No,120.0,1,1,1,1,1,1,1,1,1,1,2,4,1,3,3,2,7.0,7.0,3.0,2.0,No effect
+23.0,Spotify,5.0,Yes,Yes,No,Video game music,No,No,95.0,3,1,3,1,1,2,2,2,1,3,2,3,2,3,3,3,8.0,7.0,0.0,3.0,No effect
+15.0,Spotify,6.0,Yes,No,No,Rock,No,No,97.0,2,1,3,2,1,3,2,1,1,2,2,3,3,1,4,3,8.0,3.0,5.0,2.0,Improve
+22.0,Spotify,3.0,Yes,Yes,Yes,EDM,Yes,No,140.0,2,2,4,3,2,3,2,1,1,2,3,3,3,3,4,4,5.0,4.0,2.0,0.0,Improve
+23.0,Spotify,5.0,Yes,No,No,Lofi,Yes,Yes,120.0,4,2,3,3,2,2,3,2,2,4,2,4,4,2,4,4,7.0,10.0,10.0,1.0,Improve
+19.0,Spotify,5.0,Yes,No,No,Country,Yes,Yes,118.0,2,4,1,4,3,2,3,1,4,2,1,3,3,2,3,1,7.0,6.0,8.0,4.0,Improve
+32.0,Spotify,6.0,Yes,No,No,Rock,No,No,91.0,1,2,3,1,1,2,2,1,1,1,1,3,2,2,4,2,8.0,7.0,0.0,9.0,Improve
+40.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,128.0,3,3,3,3,2,3,3,1,3,3,2,3,3,3,4,2,10.0,7.0,3.0,3.0,No effect
+21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,86.0,1,4,2,3,2,3,1,1,1,1,2,3,2,3,3,1,6.0,5.0,5.0,3.0,Improve
+23.0,Spotify,2.0,Yes,No,No,Video game music,Yes,Yes,180.0,3,1,4,1,1,2,2,3,1,3,1,4,2,3,3,4,10.0,7.0,7.0,3.0,Worsen
+18.0,Spotify,1.5,No,No,No,Hip hop,No,No,150.0,1,1,1,1,1,3,3,1,1,3,1,4,1,3,3,1,3.0,7.0,4.0,0.0,Improve
+23.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,66.0,2,2,1,4,1,3,3,1,1,1,4,4,4,3,4,1,10.0,7.0,0.0,10.0,Improve
+13.0,Spotify,2.5,Yes,No,No,Folk,No,No,118.0,1,3,1,4,1,1,1,1,1,1,1,4,1,1,1,1,8.0,0.0,0.0,3.0,Improve
+19.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,110.0,3,2,2,3,1,2,1,4,1,3,1,4,4,4,4,1,6.0,0.0,3.0,0.0,Improve
+33.0,YouTube Music,0.5,Yes,Yes,No,Rock,No,No,80.0,3,1,2,1,1,1,2,1,1,2,3,2,1,1,3,2,7.0,9.0,4.0,6.0,Improve
+17.0,YouTube Music,6.0,Yes,Yes,No,Classical,Yes,Yes,120.0,4,2,1,1,1,2,3,2,1,3,1,4,1,1,1,2,4.0,2.0,0.0,0.0,Improve
+16.0,Spotify,3.0,Yes,No,No,EDM,Yes,Yes,100.0,2,1,4,1,1,4,3,4,1,2,3,4,2,4,4,4,4.0,2.0,0.0,0.0,Improve
+18.0,YouTube Music,0.5,No,No,No,Rock,Yes,No,66.0,2,1,1,3,1,1,1,1,1,1,1,3,2,1,4,1,5.0,3.0,1.0,0.0,No effect
+19.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,158.0,2,3,3,1,1,2,2,4,2,1,1,4,4,2,2,2,4.0,2.0,2.0,1.0,Improve
+15.0,YouTube Music,2.0,No,Yes,No,Rap,Yes,Yes,105.0,4,3,1,4,3,4,3,3,1,4,3,2,4,4,3,4,4.0,0.0,6.0,5.0,No effect
+17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,208.0,1,1,1,1,1,2,1,2,1,1,4,4,1,4,4,4,7.0,6.0,3.0,1.0,Improve
+25.0,Spotify,2.0,Yes,No,No,Lofi,Yes,Yes,91.0,3,2,3,2,1,4,4,2,3,4,1,3,2,3,4,3,7.0,8.0,6.0,2.0,Improve
+24.0,Other streaming service,1.5,Yes,No,No,Video game music,No,Yes,171.0,3,2,4,2,3,3,3,4,2,4,4,4,3,3,4,4,3.0,4.0,1.0,1.0,Improve
+23.0,Spotify,1.0,Yes,Yes,No,Jazz,Yes,No,150.0,2,2,4,1,2,1,4,2,2,1,3,2,3,1,4,3,9.0,7.0,2.0,1.0,Improve
+20.0,I do not use a streaming service.,0.5,No,No,No,Metal,Yes,Yes,150.0,3,2,3,1,1,3,3,1,1,3,3,2,2,2,3,3,8.0,9.0,6.0,4.0,Improve
+17.0,Spotify,3.0,Yes,No,No,Metal,Yes,No,104.0,1,2,2,1,3,3,1,1,1,1,4,1,2,3,4,1,5.0,6.0,9.0,9.0,Improve
+20.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,85.0,1,2,4,2,1,4,1,1,1,1,1,3,3,4,3,1,3.0,2.0,1.0,6.0,Improve
+21.0,Spotify,1.0,Yes,No,No,Rock,Yes,No,147.0,2,3,3,3,1,3,2,2,2,2,2,4,1,3,4,4,7.0,9.0,1.0,2.0,Improve
+43.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,134.0,3,1,1,3,2,3,2,1,1,2,1,4,2,2,3,1,3.0,3.0,0.0,0.0,Improve
+10.0,YouTube Music,2.0,Yes,Yes,No,Pop,Yes,Yes,112.0,4,1,2,1,1,2,2,4,1,2,1,4,1,2,1,4,8.0,2.0,1.0,1.0,Improve
+27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,200.0,2,2,3,1,1,3,1,3,2,3,4,3,2,4,4,4,4.0,0.0,0.0,0.0,Improve
+24.0,Spotify,3.0,Yes,Yes,No,Classical,No,Yes,75.0,4,1,1,1,2,2,1,1,3,2,3,2,1,2,1,1,9.0,6.0,1.0,1.0,Improve
+17.0,Apple Music,7.0,Yes,No,No,Rock,No,No,140.0,1,1,1,1,1,1,1,1,1,3,1,4,1,1,4,3,8.0,7.0,7.0,4.0,Improve
+19.0,Spotify,6.0,Yes,No,No,Metal,Yes,No,111.0,3,1,1,1,1,1,1,1,1,1,4,2,1,1,4,3,1.0,0.0,0.0,0.0,Improve
+16.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,Yes,150.0,3,1,3,1,1,2,2,2,1,2,3,3,3,3,4,3,5.0,7.0,1.0,4.0,Improve
+33.0,Apple Music,4.0,Yes,Yes,Yes,Lofi,Yes,Yes,114.0,3,2,2,3,1,3,3,2,2,4,4,3,2,3,3,3,8.0,8.0,2.0,2.0,Improve
+32.0,I do not use a streaming service.,3.0,Yes,Yes,No,Rock,No,Yes,93.0,4,3,3,3,1,1,4,2,2,1,4,2,1,2,4,2,2.0,2.0,8.0,0.0,No effect
+15.0,Pandora,2.0,Yes,Yes,No,Pop,Yes,No,145.0,2,3,1,1,1,1,1,2,4,1,1,4,3,3,1,1,6.0,0.0,0.0,2.0,Improve
+27.0,YouTube Music,3.0,Yes,No,No,Metal,Yes,Yes,100.0,4,4,1,2,1,2,1,1,1,1,4,3,1,2,4,2,2.0,0.0,1.0,0.0,Improve
+20.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,Yes,No,114.0,2,2,1,3,1,1,2,1,1,1,2,3,2,1,4,3,6.0,2.0,6.0,7.0,No effect
+23.0,I do not use a streaming service.,2.0,Yes,No,No,Pop,Yes,Yes,109.0,2,4,1,2,4,4,3,2,1,2,1,4,4,4,4,3,6.0,1.0,0.0,5.0,Improve
+16.0,Other streaming service,3.0,Yes,Yes,Yes,Classical,No,No,72.0,4,2,1,1,2,1,1,1,1,1,1,4,1,1,1,2,9.0,7.0,10.0,6.0,No effect
+17.0,Other streaming service,0.0,No,No,No,Video game music,No,Yes,89.0,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,4,10.0,0.0,0.0,0.0,No effect
+14.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,No,140.0,2,2,4,2,2,3,3,3,2,3,2,4,3,3,3,3,6.0,6.0,3.0,0.0,Improve
+32.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,84.0,2,2,4,2,2,2,2,2,1,3,4,3,2,2,3,4,4.0,3.0,1.0,6.0,Improve
+20.0,Spotify,2.0,Yes,Yes,No,Pop,No,Yes,132.0,1,1,1,1,1,2,1,1,1,1,1,1,1,2,2,2,6.0,2.0,2.0,1.0,No effect
+18.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,124.0,1,2,2,1,1,2,2,4,2,2,1,4,2,3,3,1,7.0,4.0,5.0,6.0,Improve
+14.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,No,181.0,4,1,1,1,1,2,1,1,1,2,3,3,1,2,4,2,7.0,5.0,3.0,2.0,Improve
+13.0,Other streaming service,4.0,Yes,Yes,Yes,Classical,Yes,No,126.0,4,1,3,2,1,1,2,2,1,1,2,4,1,1,3,3,8.0,5.0,10.0,3.0,Improve
+19.0,Apple Music,8.0,Yes,No,Yes,Country,Yes,No,109.0,1,4,1,2,1,1,1,1,1,1,2,2,1,2,3,2,7.0,5.0,6.0,5.0,Improve
+14.0,Spotify,4.0,Yes,Yes,No,Classical,Yes,No,106.0,4,1,2,1,1,3,3,2,2,2,3,3,3,3,3,2,6.0,8.0,8.0,2.0,Improve
+18.0,Apple Music,2.0,Yes,Yes,No,Rap,Yes,Yes,170.0,4,1,3,1,1,4,3,2,4,3,2,3,3,4,2,3,3.0,2.0,0.0,2.0,Improve
+15.0,Spotify,5.0,Yes,No,No,Folk,Yes,Yes,87.0,2,3,1,4,2,3,1,1,1,3,1,1,1,3,2,2,6.0,7.0,7.0,4.0,Improve
+17.0,Apple Music,2.0,Yes,No,No,Pop,No,Yes,117.0,2,1,1,1,1,2,2,1,1,3,2,4,4,1,1,3,9.0,8.0,4.0,8.0,Improve
+44.0,Spotify,2.0,No,No,No,Rock,Yes,No,105.0,3,3,3,3,2,3,2,2,1,1,3,3,3,3,4,1,7.0,7.0,2.0,1.0,Improve
+21.0,Apple Music,1.0,No,No,No,Rap,No,No,160.0,2,2,1,1,1,3,2,1,1,2,2,3,3,3,2,1,4.0,3.0,4.0,5.0,Improve
+23.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,141.0,2,2,1,4,1,2,1,1,1,4,4,4,1,3,4,4,0.0,5.0,7.0,0.0,No effect
+18.0,Spotify,1.0,Yes,Yes,No,Pop,No,Yes,105.0,3,2,1,1,2,1,2,1,3,2,1,4,1,1,1,4,8.0,7.0,7.0,0.0,Improve
+15.0,Spotify,3.0,Yes,Yes,Yes,Classical,Yes,No,118.0,4,1,1,1,1,1,1,2,1,3,1,3,1,1,1,3,9.0,6.0,8.0,5.0,Improve
+57.0,YouTube Music,2.0,Yes,Yes,Yes,Rock,Yes,No,125.0,1,1,1,1,1,2,3,1,2,2,3,3,3,2,4,1,2.0,2.0,7.0,0.0,No effect
+12.0,Spotify,0.5,Yes,Yes,Yes,Classical,Yes,Yes,109.0,4,1,1,1,1,1,2,1,1,2,1,3,1,1,1,1,7.0,8.0,6.0,2.0,Improve
+26.0,Spotify,6.0,Yes,No,No,EDM,No,Yes,156.0,1,1,4,1,1,1,1,1,1,1,1,2,2,2,1,2,10.0,10.0,8.0,2.0,No effect
+17.0,Spotify,1.0,Yes,Yes,No,Country,No,No,105.0,1,4,1,2,2,1,2,1,1,1,2,2,2,1,3,2,8.0,5.0,2.0,3.0,Improve
+69.0,Pandora,4.0,Yes,Yes,Yes,Classical,Yes,Yes,72.0,4,3,1,3,3,2,4,2,2,2,1,3,3,1,4,1,1.0,1.0,2.0,0.0,Improve
+17.0,Spotify,3.0,Yes,Yes,Yes,R&B,Yes,Yes,148.0,4,1,2,1,3,4,4,4,3,1,2,4,4,4,3,1,9.0,10.0,10.0,3.0,No effect
+22.0,YouTube Music,3.0,No,Yes,No,Classical,Yes,No,113.0,4,1,1,1,1,1,3,1,1,1,1,2,1,1,2,1,8.0,2.0,4.0,0.0,No effect
+38.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,191.0,2,1,1,3,1,1,2,1,1,1,4,1,1,1,3,2,1.0,1.0,5.0,1.0,Improve
+14.0,Spotify,5.0,Yes,Yes,No,Classical,Yes,Yes,40.0,4,2,2,2,2,2,2,3,2,3,1,3,3,2,2,4,3.0,0.0,2.0,3.0,Improve
+14.0,Other streaming service,0.5,Yes,Yes,No,Video game music,Yes,Yes,173.0,4,1,1,2,1,1,2,3,2,1,1,4,1,1,1,4,4.0,0.0,4.0,0.0,Improve
+19.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,180.0,2,2,2,2,1,2,2,1,2,3,4,3,2,2,4,3,2.0,3.0,5.0,2.0,Improve
+20.0,YouTube Music,3.0,Yes,Yes,Yes,Classical,Yes,No,100.0,4,3,2,3,2,2,4,2,2,1,2,3,3,2,2,2,2.0,3.0,3.0,0.0,Improve
+18.0,Spotify,2.0,No,No,No,Rock,Yes,No,123.0,1,4,1,2,2,2,2,1,1,1,3,4,1,3,3,3,8.0,4.0,3.0,0.0,Improve
+31.0,I do not use a streaming service.,4.0,Yes,Yes,No,Classical,Yes,Yes,55.0,4,2,1,2,2,1,3,1,1,2,2,1,1,1,3,3,8.0,8.0,9.0,3.0,Improve
+72.0,Spotify,6.0,Yes,Yes,Yes,Rock,No,No,77.0,1,3,1,1,1,1,4,1,3,1,1,2,4,1,4,1,0.0,1.0,0.0,2.0,Improve
+16.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,150.0,2,2,3,3,2,4,2,3,2,3,2,4,2,2,2,2,7.5,5.0,7.0,8.5,Improve
+19.0,YouTube Music,3.0,No,Yes,No,Rap,Yes,Yes,73.0,2,1,3,1,1,3,2,1,1,2,1,3,2,4,3,3,3.0,3.0,0.0,0.0,Improve
+16.0,Spotify,2.0,Yes,Yes,No,Classical,No,No,155.0,4,2,1,2,1,2,2,1,1,2,1,4,1,1,2,2,7.0,5.0,3.0,1.0,Improve
+39.0,Spotify,1.0,Yes,No,No,Hip hop,Yes,Yes,89.0,1,2,2,3,1,4,2,2,2,3,3,4,3,4,4,1,6.0,4.0,1.0,1.0,Improve
+15.0,Spotify,6.0,Yes,Yes,No,K pop,Yes,Yes,110.0,3,1,2,3,1,2,3,4,3,3,2,4,3,2,4,1,8.0,8.0,7.0,10.0,No effect
+14.0,Spotify,9.0,Yes,No,No,R&B,Yes,Yes,140.0,4,2,2,2,2,3,2,4,2,3,2,4,4,4,2,2,10.0,8.0,9.0,5.0,Improve
+21.0,Spotify,1.0,No,No,No,Country,No,No,135.0,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3.0,0.0,2.0,0.0,Improve
+38.0,Apple Music,1.0,Yes,No,No,Video game music,No,No,125.0,2,1,1,1,1,2,3,2,2,1,2,3,2,2,2,4,5.0,5.0,7.0,1.0,Worsen
+23.0,Spotify,0.5,No,No,Yes,Hip hop,Yes,Yes,110.0,3,3,2,2,2,4,2,4,2,3,2,3,3,4,2,3,7.0,7.0,6.0,5.0,Improve
+16.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,140.0,1,1,4,1,1,3,2,1,1,3,3,2,2,2,3,3,7.0,4.0,6.0,3.0,Improve
+13.0,Spotify,6.0,Yes,No,No,Rap,Yes,No,112.0,1,1,1,1,1,4,1,2,1,2,1,2,1,4,1,1,4.0,0.0,0.0,2.0,Worsen
+16.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,96.0,2,3,3,3,1,3,2,3,1,4,4,4,1,1,4,3,3.0,0.0,6.0,9.0,Improve
+21.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,155.0,1,1,4,1,1,1,1,1,1,2,3,1,1,1,4,4,10.0,6.0,8.0,0.0,Improve
+17.0,Spotify,1.5,Yes,No,No,Classical,Yes,Yes,174.0,4,2,1,2,1,1,3,1,1,3,1,4,2,1,1,1,7.0,5.0,1.0,2.0,No effect
+24.0,Apple Music,2.0,Yes,No,No,Rock,Yes,Yes,93.0,2,3,1,4,1,3,3,1,2,3,1,2,2,3,4,1,7.0,7.0,0.0,4.0,No effect
+14.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,78.0,2,1,1,3,1,3,1,2,4,2,2,4,3,3,2,1,6.0,0.0,0.0,0.0,Improve
+22.0,Spotify,3.0,Yes,No,No,Lofi,Yes,Yes,174.0,2,4,3,2,2,2,2,2,2,4,2,2,2,2,2,2,7.0,6.0,7.0,9.0,Improve
+20.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,120.0,2,1,3,1,1,2,1,4,2,2,3,4,2,2,4,2,5.0,7.0,7.0,0.0,No effect
+23.0,Spotify,2.0,Yes,No,No,Pop,No,No,75.0,3,2,2,3,1,4,3,1,1,1,1,4,4,4,3,3,7.0,6.0,4.0,3.0,Improve
+61.0,Pandora,2.0,Yes,No,No,Rock,Yes,No,94.0,1,1,1,2,1,1,1,2,1,1,3,3,2,1,3,1,2.0,2.0,2.0,0.0,Improve
+24.0,Spotify,6.0,Yes,No,No,Video game music,No,Yes,180.0,3,1,3,4,1,1,1,2,1,2,3,2,1,1,4,4,9.0,5.0,0.0,7.0,Improve
+34.0,Spotify,0.0,No,Yes,No,Rock,No,Yes,115.0,2,2,1,3,1,1,1,1,1,1,2,1,1,1,4,1,3.0,7.0,8.0,0.0,Worsen
+49.0,Spotify,1.0,No,No,No,Pop,Yes,No,128.0,3,1,1,1,1,4,2,1,1,4,1,4,4,4,3,1,4.0,5.0,9.0,1.0,Improve
+33.0,I do not use a streaming service.,4.0,Yes,Yes,No,Rock,Yes,Yes,112.0,2,3,2,2,2,2,2,1,1,4,2,3,2,2,4,4,1.0,0.0,7.0,0.0,Improve
+22.0,I do not use a streaming service.,2.0,No,Yes,Yes,Metal,No,No,140.0,1,1,2,1,1,1,1,1,1,1,4,2,2,1,4,4,3.0,2.0,0.0,2.0,No effect
+38.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,143.0,2,1,1,1,1,1,1,1,1,1,4,1,1,2,3,1,1.0,6.0,1.0,2.0,Improve
+23.0,YouTube Music,4.0,No,No,No,Hip hop,Yes,No,72.0,2,2,1,2,1,4,2,1,1,3,2,4,3,3,3,2,8.0,10.0,4.0,0.0,No effect
+34.0,I do not use a streaming service.,2.0,No,No,No,Video game music,No,Yes,100.0,2,2,2,1,1,3,2,2,1,2,2,1,1,3,2,4,8.0,10.0,10.0,0.0,No effect
+40.0,Other streaming service,3.0,Yes,No,No,Metal,Yes,Yes,120.0,1,1,1,1,1,1,3,1,3,1,4,2,2,1,3,1,3.0,0.0,8.0,1.0,No effect
+22.0,YouTube Music,4.0,Yes,No,No,Folk,Yes,Yes,137.0,2,3,4,4,1,3,3,1,2,3,4,4,3,3,4,3,8.0,7.0,6.0,2.0,Improve
+41.0,Spotify,3.0,No,No,No,Metal,Yes,Yes,178.0,4,2,1,2,1,1,1,3,1,1,4,2,1,2,3,4,6.0,5.0,4.0,0.0,No effect
+63.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,133.0,4,3,2,4,1,2,3,1,2,1,1,1,2,1,4,1,5.0,4.0,6.0,2.0,Improve
+28.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,72.0,2,2,1,2,1,2,1,1,1,3,2,3,1,2,3,1,3.0,1.0,0.0,2.0,No effect
+58.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,133.0,2,3,2,3,3,3,3,1,2,2,3,2,3,3,3,1,5.0,6.0,3.0,1.0,Improve
+58.0,YouTube Music,1.0,Yes,Yes,Yes,Classical,Yes,No,80.0,3,2,1,2,3,2,3,2,2,1,1,2,1,1,1,1,0.0,0.0,2.0,1.0,Improve
+67.0,Other streaming service,4.0,Yes,No,No,Rock,No,No,146.0,1,3,1,1,1,1,3,1,1,1,2,1,2,1,4,1,7.0,6.0,7.0,4.0,Improve
+70.0,I do not use a streaming service.,2.0,Yes,No,No,Country,No,No,88.0,3,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8.0,5.0,6.0,1.0,Improve
+60.0,YouTube Music,2.0,Yes,No,No,Rock,No,Yes,132.0,3,3,1,3,2,1,2,1,2,1,2,3,3,2,4,2,4.0,4.0,2.0,0.0,Improve
+15.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,102.0,2,2,3,1,3,2,3,3,1,1,1,4,3,1,3,4,9.0,8.0,10.0,9.0,Improve
+18.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,91.0,4,2,4,2,3,4,3,1,3,4,3,4,4,4,3,4,5.0,5.0,7.0,0.0,Improve
+58.0,Other streaming service,3.0,Yes,No,No,Hip hop,Yes,Yes,127.0,3,1,3,2,3,4,4,1,3,4,1,2,4,3,3,1,4.0,6.0,8.0,1.0,Improve
+28.0,Other streaming service,1.0,Yes,No,No,Lofi,Yes,Yes,82.0,3,2,2,2,2,3,3,2,3,4,2,3,3,2,3,3,4.0,8.0,5.0,0.0,Improve
+22.0,Spotify,4.0,Yes,Yes,No,Lofi,Yes,No,141.0,2,2,1,3,1,2,3,1,1,4,2,3,2,2,4,1,9.0,10.0,6.0,7.0,Improve
+49.0,YouTube Music,0.5,No,No,No,Classical,No,No,114.0,4,3,2,3,4,3,3,2,2,1,2,3,3,3,2,2,3.0,2.0,2.0,2.0,Improve
+20.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,Yes,148.0,1,2,2,3,1,1,2,1,1,2,3,2,3,1,4,3,6.0,2.0,2.0,1.0,Improve
+48.0,Spotify,1.5,Yes,Yes,No,Metal,No,No,185.0,2,1,2,1,1,1,2,1,1,1,3,1,2,1,2,2,10.0,8.0,0.0,4.0,Improve
+14.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,114.0,3,1,2,1,1,3,3,4,1,3,1,2,2,2,1,2,4.0,4.0,2.0,2.0,Improve
+18.0,Spotify,3.0,Yes,Yes,No,Pop,Yes,Yes,120.0,3,1,3,2,1,4,3,4,4,3,2,4,4,4,3,3,7.0,8.0,6.0,2.0,Improve
+25.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,80.0,4,2,2,2,1,3,3,1,1,2,4,4,2,3,3,3,7.0,6.0,5.0,5.0,Improve
+18.0,I do not use a streaming service.,1.0,Yes,No,Yes,Video game music,No,No,116.0,2,2,3,3,1,2,3,1,1,1,3,1,2,3,3,4,4.0,5.0,7.0,0.0,No effect
+19.0,Spotify,5.0,Yes,No,No,Hip hop,No,Yes,99.0,2,4,3,2,2,4,1,2,4,1,2,3,3,4,2,3,10.0,7.0,0.0,0.0,Improve
+74.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,129.0,2,4,1,3,3,1,2,1,3,1,1,4,3,1,3,1,4.0,2.0,1.0,0.0,Improve
+36.0,Pandora,1.0,Yes,No,No,Hip hop,No,No,131.0,3,1,1,1,1,4,1,1,1,1,1,4,3,3,3,1,7.0,6.0,2.0,3.0,Improve
+14.0,Spotify,7.0,Yes,No,No,Lofi,Yes,Yes,95.0,1,1,1,1,1,3,1,1,1,4,1,4,1,3,1,2,3.0,2.0,8.0,0.0,Improve
+20.0,Spotify,3.0,No,Yes,Yes,Hip hop,Yes,Yes,80.0,4,2,2,3,1,4,3,1,3,2,2,3,3,4,4,2,10.0,7.0,4.0,3.0,Improve
+15.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,204.0,2,1,2,1,1,4,3,4,1,1,1,2,3,4,3,4,4.0,0.0,0.0,0.0,No effect
+19.0,I do not use a streaming service.,7.0,Yes,No,No,Rock,No,No,128.0,3,2,1,2,1,1,3,1,1,1,2,1,1,1,4,3,7.0,7.0,0.0,0.0,Improve
+29.0,Spotify,8.0,Yes,No,No,EDM,No,Yes,140.0,2,3,4,3,1,3,2,1,1,2,3,1,1,4,4,4,6.0,7.0,4.0,1.0,Improve
+24.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,159.0,1,2,4,3,4,1,1,1,1,2,4,2,1,1,3,2,7.0,6.0,2.0,7.0,Improve
+18.0,Apple Music,2.0,Yes,No,No,Pop,Yes,Yes,104.0,2,2,2,2,2,4,2,2,3,2,3,4,4,4,4,1,6.0,5.0,8.0,0.0,Improve
+21.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,97.0,3,1,1,3,1,2,2,2,1,2,1,4,2,2,4,2,10.0,10.0,2.0,3.0,Improve
+19.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,80.0,2,1,2,1,1,3,3,4,1,3,1,3,4,2,3,3,7.0,6.0,5.0,1.0,Improve
+25.0,Spotify,4.0,No,No,No,Video game music,Yes,Yes,134.0,3,1,1,2,2,1,1,2,4,1,1,4,3,1,1,4,3.0,0.0,0.0,0.0,Improve
+27.0,Other streaming service,4.0,Yes,No,No,Rap,Yes,No,135.0,2,1,1,1,1,3,2,3,1,3,1,2,1,4,2,2,7.0,6.0,6.0,5.0,Improve
+60.0,Spotify,1.0,No,No,No,Rock,Yes,No,129.0,3,2,1,3,1,1,3,1,1,1,1,2,2,1,3,1,3.0,2.0,5.0,0.0,No effect
+43.0,Other streaming service,1.0,No,No,No,Country,No,No,110.0,1,4,1,1,1,2,1,1,1,1,1,3,1,1,2,1,5.0,1.0,1.0,1.0,Improve
+51.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,No,No,180.0,3,2,1,3,1,1,2,1,1,1,3,2,2,1,4,2,1.0,2.0,1.0,0.0,No effect
+63.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,No,70.0,3,3,2,2,1,1,2,1,2,2,1,3,2,1,3,1,2.0,1.0,2.0,2.0,Improve
+24.0,YouTube Music,1.0,Yes,No,No,Folk,No,Yes,103.0,3,1,4,4,2,3,3,2,2,4,2,3,2,3,4,4,10.0,10.0,7.0,8.0,Improve
+19.0,Spotify,8.0,Yes,No,No,Pop,Yes,Yes,99.0,2,3,3,4,1,4,1,4,3,2,2,4,3,4,4,2,7.0,2.0,1.0,6.0,Improve
+56.0,Apple Music,8.0,Yes,No,No,Pop,Yes,No,117.0,3,2,2,3,1,3,3,2,2,2,3,3,3,3,3,1,6.0,4.0,1.0,0.0,Improve
+20.0,Spotify,1.0,No,No,No,EDM,Yes,No,102.0,2,1,4,1,1,3,1,2,2,4,2,4,1,1,1,1,5.0,9.0,6.0,1.0,Improve
+19.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,127.0,4,1,1,2,2,3,3,2,2,4,1,3,3,2,2,4,7.0,5.0,7.0,0.0,Improve
+20.0,Spotify,8.0,Yes,No,No,Jazz,Yes,Yes,93.0,2,3,2,4,1,3,4,2,3,4,1,3,2,3,3,2,7.0,6.0,7.0,4.0,Improve
+65.0,Apple Music,6.0,Yes,No,No,R&B,No,Yes,146.0,2,2,1,2,2,2,2,2,3,1,1,3,4,1,3,1,3.0,5.0,0.0,2.0,No effect
+18.0,I do not use a streaming service.,4.0,Yes,Yes,No,EDM,No,Yes,150.0,4,1,4,1,1,1,2,1,1,2,1,3,1,2,2,3,8.0,7.0,10.0,6.0,Improve
+42.0,Spotify,2.0,Yes,No,No,Rock,No,Yes,85.0,2,1,1,1,1,2,1,1,1,1,1,3,2,2,3,2,2.0,4.0,5.0,2.0,Improve
+80.0,I do not use a streaming service.,3.0,Yes,Yes,No,Classical,No,No,122.0,4,2,1,2,1,1,2,2,1,2,2,3,1,1,1,3,7.0,3.0,9.0,2.0,Improve
+56.0,Other streaming service,2.0,No,No,No,Jazz,Yes,Yes,120.0,3,1,3,3,2,1,4,1,2,2,2,3,2,1,3,2,0.0,0.0,0.0,5.0,No effect
+20.0,YouTube Music,1.0,Yes,No,No,Pop,No,Yes,120.0,1,1,3,1,1,2,3,4,2,2,1,4,3,2,2,1,8.0,6.0,9.0,8.0,Improve
+15.0,Spotify,1.0,Yes,No,No,Video game music,Yes,Yes,150.0,1,2,3,1,1,3,2,1,1,4,3,3,2,2,4,4,4.0,2.0,3.0,2.0,Improve
+57.0,Spotify,2.0,Yes,Yes,No,Gospel,No,No,174.0,3,1,1,2,4,1,3,1,2,1,1,3,3,1,2,1,6.0,4.0,10.0,0.0,Improve
+22.0,Apple Music,7.0,Yes,No,No,Pop,Yes,Yes,112.0,1,1,3,2,1,4,1,4,3,1,1,4,4,4,3,2,8.0,8.0,10.0,0.0,Improve
+17.0,Spotify,5.0,Yes,No,No,Pop,Yes,Yes,180.0,1,1,3,1,1,3,1,4,2,2,1,4,4,3,2,2,5.0,5.0,5.0,5.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Rock,No,No,121.0,1,4,1,2,3,1,1,1,1,1,2,4,1,3,4,3,10.0,8.0,6.0,2.0,No effect
+50.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,98.0,3,3,1,1,1,4,3,2,2,1,2,4,3,3,4,1,0.0,0.0,7.0,0.0,Improve
+24.0,Spotify,6.0,Yes,Yes,Yes,Rock,Yes,Yes,118.0,1,2,3,4,1,2,2,3,1,2,4,3,1,2,4,3,8.0,8.0,10.0,0.0,Improve
+18.0,Other streaming service,3.0,Yes,Yes,Yes,Metal,Yes,No,135.0,3,3,1,2,2,2,1,1,1,1,4,1,2,2,2,1,7.0,8.0,4.0,10.0,Improve
+15.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,105.0,1,2,1,1,3,2,2,2,2,3,2,4,3,3,4,3,3.0,5.0,4.0,0.0,Improve
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,122.0,2,1,1,2,1,3,1,4,2,1,1,4,1,3,1,1,5.0,2.0,3.0,1.0,Improve
+18.0,Spotify,2.0,No,No,No,Rap,Yes,Yes,136.0,2,1,1,1,1,4,2,1,1,1,2,3,2,4,2,4,6.0,3.0,4.0,2.0,Improve
+18.0,Spotify,1.0,Yes,Yes,Yes,Rock,Yes,No,165.0,3,1,3,1,1,2,2,1,1,2,4,3,1,2,4,2,5.0,6.0,8.0,2.0,Improve
+18.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,130.0,3,1,1,1,1,3,1,4,1,2,1,3,4,2,3,2,8.0,4.0,7.0,5.0,Improve
+18.0,Spotify,2.0,No,Yes,No,Rock,Yes,No,115.0,1,1,1,1,1,2,1,1,1,1,3,3,2,2,4,1,8.0,3.0,1.0,3.0,Improve
+17.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,140.0,2,1,2,1,3,4,3,1,1,3,1,3,3,4,2,1,3.0,3.0,0.0,0.0,Improve
+34.0,Spotify,3.0,Yes,No,No,Classical,No,Yes,95.0,4,1,1,1,1,1,2,1,1,2,3,2,1,1,3,3,0.0,0.0,0.0,0.0,No effect
+18.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,150.0,2,2,3,2,1,4,2,2,1,2,2,4,2,4,2,3,5.0,4.0,2.0,0.0,No effect
+18.0,Spotify,2.0,Yes,No,No,R&B,Yes,No,97.0,1,1,1,1,3,4,2,1,2,2,1,3,4,4,2,1,2.0,4.0,0.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,122.0,3,2,2,3,2,3,2,2,2,2,2,3,2,3,4,1,4.0,0.0,7.0,0.0,No effect
+25.0,I do not use a streaming service.,4.0,Yes,No,No,Pop,Yes,Yes,150.0,2,1,3,1,1,4,1,2,2,2,3,4,2,4,4,2,10.0,8.0,6.0,2.0,No effect
+25.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,125.0,3,3,2,1,1,3,1,2,1,2,3,3,1,3,4,3,8.0,7.0,2.0,1.0,Improve
+18.0,Spotify,2.0,Yes,No,No,R&B,No,No,96.0,3,2,1,1,1,3,2,1,1,4,2,4,4,3,4,2,3.0,3.0,0.0,3.0,Improve
+24.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,137.0,3,2,2,4,1,2,2,1,2,3,2,4,2,2,4,4,10.0,10.0,8.0,10.0,Improve
+16.0,Spotify,3.0,Yes,Yes,No,K pop,No,Yes,174.0,2,1,3,1,1,2,3,4,3,3,1,4,2,3,1,1,10.0,2.0,7.0,8.0,Improve
+18.0,Spotify,3.0,No,Yes,Yes,Metal,Yes,No,210.0,1,1,1,2,1,3,4,1,2,1,4,2,3,3,3,2,9.0,6.0,8.0,5.0,Improve
+18.0,Spotify,4.0,Yes,No,No,R&B,Yes,Yes,129.0,2,2,2,1,1,4,3,1,1,2,1,4,4,4,4,2,6.0,4.0,1.0,6.0,Improve
+16.0,Spotify,3.0,Yes,No,No,Pop,Yes,No,112.0,4,1,1,1,1,2,2,1,1,1,1,4,4,1,3,1,3.0,4.0,6.0,8.0,Improve
+21.0,Spotify,1.0,No,No,No,R&B,Yes,Yes,81.0,1,1,1,1,2,4,1,1,1,1,1,4,4,3,1,1,3.0,0.0,0.0,0.0,Improve
+53.0,Pandora,4.0,Yes,No,No,R&B,Yes,Yes,153.0,2,3,2,2,2,4,2,3,2,1,3,2,3,3,3,2,1.0,0.0,0.0,0.0,Improve
+29.0,Spotify,4.0,Yes,No,No,Classical,Yes,No,120.0,4,1,4,1,1,1,3,1,2,2,1,3,1,1,2,2,5.0,6.0,7.0,7.0,No effect
+18.0,Spotify,4.0,Yes,Yes,No,R&B,Yes,Yes,169.0,2,3,4,1,2,4,2,3,3,3,2,3,4,3,2,3,3.0,0.0,3.0,4.0,Improve
+22.0,Spotify,5.0,Yes,No,No,EDM,Yes,Yes,138.0,1,1,4,1,1,4,1,1,1,4,1,4,4,4,4,3,1.0,0.0,0.0,1.0,No effect
+19.0,Other streaming service,6.0,Yes,No,No,Pop,No,No,124.0,3,2,2,2,4,3,2,3,4,2,2,4,3,3,3,3,6.0,6.0,0.0,0.0,Improve
+26.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,192.0,1,2,3,3,1,2,2,3,3,4,1,4,2,2,3,1,6.0,4.0,0.0,0.0,Improve
+14.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,76.0,1,1,1,1,1,3,2,1,1,1,2,3,1,1,4,3,2.0,6.0,3.0,0.0,Worsen
+27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,119.0,2,2,2,1,2,3,2,4,1,3,1,4,3,3,3,4,8.0,3.0,3.0,3.0,Improve
+26.0,Spotify,8.0,No,No,No,Rock,No,Yes,172.0,1,3,3,4,1,4,2,4,1,1,3,3,4,4,4,4,8.0,10.0,7.0,3.0,No effect
+59.0,Other streaming service,1.0,No,Yes,No,Rock,No,No,79.0,2,1,1,2,3,1,2,1,2,1,1,2,2,1,4,1,1.0,0.0,0.0,1.0,Improve
+30.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,112.0,3,3,1,2,1,3,3,1,3,3,2,3,3,3,4,1,8.0,6.0,6.0,8.0,Improve
+27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,130.0,1,2,3,1,1,3,1,2,3,1,1,4,3,3,3,1,6.0,3.0,1.0,7.0,Improve
+18.0,Apple Music,1.0,No,Yes,No,Rap,Yes,Yes,116.0,2,1,1,1,1,3,1,1,2,3,1,3,1,4,1,3,2.0,0.0,3.0,0.0,Improve
+40.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,174.0,3,3,3,3,1,4,2,2,3,2,3,4,3,4,4,2,3.0,0.0,0.0,1.0,Improve
+23.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,Yes,171.0,4,1,2,2,1,1,3,1,2,3,1,4,2,1,4,1,8.0,7.0,6.0,2.0,Improve
+29.0,Other streaming service,2.0,Yes,No,No,R&B,Yes,No,70.0,2,1,4,1,1,4,2,2,3,3,1,4,4,2,1,3,10.0,7.0,9.0,3.0,No effect
+16.0,Other streaming service,3.0,Yes,No,No,Pop,No,Yes,120.0,1,1,1,1,1,4,1,4,1,1,1,4,3,1,1,1,6.0,0.0,0.0,0.0,Improve
+18.0,Spotify,8.0,Yes,Yes,Yes,Gospel,Yes,Yes,56.0,2,1,2,1,4,3,3,1,3,4,1,3,4,3,1,3,3.0,0.0,2.0,2.0,Improve
+21.0,Spotify,8.0,Yes,No,No,Lofi,Yes,Yes,162.0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,6.0,5.0,9.0,8.0,Improve
+32.0,Spotify,8.0,Yes,No,No,Rock,Yes,No,101.0,1,1,1,2,1,3,1,1,1,1,3,2,2,3,4,3,7.0,6.0,5.0,8.0,Improve
+22.0,YouTube Music,8.0,Yes,Yes,No,Metal,Yes,No,110.0,3,1,3,2,2,2,3,1,1,1,4,2,2,1,4,4,10.0,7.0,8.0,6.0,Improve
+18.0,Spotify,6.0,Yes,No,No,EDM,Yes,Yes,90.0,2,1,4,1,1,3,2,4,4,4,1,4,4,4,2,3,0.0,2.0,1.0,5.0,Improve
+18.0,Spotify,4.0,Yes,Yes,No,R&B,No,Yes,135.0,3,2,3,1,3,3,1,4,4,2,1,3,4,4,1,2,2.0,0.0,0.0,0.0,No effect
+24.0,Spotify,8.0,Yes,No,No,Jazz,Yes,No,81.0,4,1,2,1,1,4,4,1,2,4,1,2,3,3,4,2,2.0,2.0,4.0,0.0,No effect
+21.0,Spotify,2.0,No,No,No,Pop,No,No,170.0,2,1,1,1,2,3,1,1,1,3,3,4,3,3,4,3,5.0,6.0,3.0,4.0,No effect
+46.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,120.0,1,3,1,1,1,1,1,1,1,1,1,3,1,1,3,1,0.0,0.0,1.0,0.0,No effect
+18.0,Spotify,2.0,Yes,Yes,No,Hip hop,Yes,No,90.0,1,1,1,1,3,4,1,1,1,3,1,3,4,4,1,1,5.0,4.0,3.0,7.0,Improve
+16.0,Spotify,3.0,Yes,Yes,No,K pop,Yes,Yes,115.0,2,1,2,1,1,4,4,4,1,3,1,4,4,4,4,3,2.0,7.0,0.0,0.0,Improve
+20.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,121.0,2,1,1,4,1,2,2,2,1,3,2,4,2,2,4,1,3.0,2.0,3.0,0.0,Improve
+21.0,Apple Music,1.0,Yes,No,No,Rock,No,No,105.0,3,1,2,1,1,2,2,1,1,1,2,3,1,1,4,2,5.0,1.0,1.0,9.0,Improve
+25.0,Spotify,3.0,Yes,No,No,Rock,No,No,110.0,1,2,1,3,1,1,1,1,1,3,1,2,1,1,4,3,8.0,9.0,4.0,10.0,Improve
+33.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,134.0,2,1,1,3,1,3,2,1,1,1,4,3,3,3,4,3,4.0,8.0,0.0,0.0,Improve
+20.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,148.0,2,2,2,2,1,3,3,2,3,3,4,4,3,3,4,2,7.0,9.0,7.0,0.0,Improve
+17.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,120.0,3,3,3,1,1,1,1,2,1,2,4,4,1,2,4,1,1.0,5.0,6.0,4.0,No effect
+24.0,YouTube Music,1.0,No,No,No,Jazz,Yes,Yes,122.0,2,1,3,2,1,1,3,2,1,2,2,3,2,1,3,4,3.0,2.0,1.0,0.0,No effect
+26.0,Spotify,3.0,Yes,Yes,Yes,Jazz,Yes,Yes,90.0,2,2,2,2,1,3,4,1,3,2,4,2,3,2,4,2,6.0,8.0,0.0,0.0,Improve
+17.0,YouTube Music,3.0,Yes,No,No,Rock,No,No,122.0,2,2,1,2,1,2,2,1,1,2,4,3,1,3,4,4,6.0,3.0,6.0,0.0,Improve
+16.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,129.0,3,1,1,2,1,2,3,1,1,2,4,3,1,3,4,3,7.0,4.0,8.0,0.0,Improve
+27.0,Spotify,8.0,Yes,No,No,Metal,Yes,No,132.0,1,1,2,1,1,3,1,1,1,1,4,4,4,2,3,1,2.0,6.0,9.0,1.0,No effect
+28.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,178.0,2,3,3,2,1,4,1,1,4,3,2,4,2,4,3,2,8.0,5.0,3.0,8.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Rap,No,Yes,115.0,1,1,2,2,1,3,1,2,1,4,3,4,3,4,3,3,7.0,5.0,3.0,3.0,Improve
+21.0,YouTube Music,4.0,Yes,No,No,Rock,Yes,Yes,137.0,3,4,2,4,1,3,1,1,1,2,3,4,3,3,4,2,4.0,8.0,2.0,3.0,Improve
+21.0,I do not use a streaming service.,1.0,Yes,Yes,No,Classical,No,No,92.0,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3.0,0.0,0.0,5.0,Improve
+15.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,140.0,2,1,3,2,1,2,1,2,1,1,4,3,3,3,4,2,10.0,7.0,3.0,2.0,Improve
+20.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,130.0,3,3,2,4,2,2,4,1,1,1,1,4,2,2,4,1,10.0,4.0,8.0,0.0,Improve
+22.0,Spotify,6.0,Yes,No,No,Folk,Yes,No,63.0,1,2,3,4,1,2,2,1,3,3,1,2,2,2,4,3,8.0,7.0,7.0,3.0,Improve
+22.0,Spotify,2.0,No,No,No,Rock,No,No,119.0,2,1,1,1,1,2,2,2,1,1,4,4,1,1,4,3,10.0,5.0,2.0,8.0,Improve
+20.0,YouTube Music,4.0,Yes,Yes,No,Metal,Yes,No,180.0,2,3,1,1,1,1,2,1,1,1,4,1,1,1,4,3,5.0,2.0,1.0,6.0,Improve
+49.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Classical,No,No,68.0,4,1,1,1,1,1,2,1,1,1,2,2,1,1,2,1,4.0,8.0,9.0,1.0,Improve
+42.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,85.0,3,2,1,1,2,2,1,3,3,2,4,4,3,1,4,4,7.0,8.0,5.0,3.0,Improve
+26.0,Spotify,2.0,Yes,No,No,EDM,Yes,Yes,128.0,2,3,4,3,1,3,2,1,3,2,2,3,2,3,4,1,2.0,2.0,0.0,3.0,No effect
+23.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,92.0,3,3,2,3,1,3,3,3,2,2,2,3,3,3,3,2,3.0,7.0,7.0,4.0,No effect
+30.0,Apple Music,3.0,Yes,No,No,EDM,Yes,Yes,121.0,2,1,4,1,2,3,1,4,1,1,2,4,3,3,3,1,7.0,5.0,7.0,7.0,Improve
+31.0,Spotify,2.0,Yes,No,No,Metal,No,Yes,155.0,2,3,1,4,1,2,2,1,1,1,4,4,4,2,4,3,7.0,4.0,8.0,8.0,Improve
+42.0,Other streaming service,0.25,No,Yes,No,Classical,Yes,Yes,150.0,4,2,1,1,1,1,3,1,2,1,2,3,2,2,3,1,7.0,9.0,4.0,5.0,Improve
+34.0,YouTube Music,2.0,No,No,No,Metal,Yes,No,136.0,3,2,1,3,1,2,2,2,2,1,4,3,2,2,4,1,5.0,9.0,9.0,6.0,Improve
+21.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,121.0,3,1,4,2,1,2,2,2,3,2,3,4,4,2,3,3,5.0,4.0,10.0,7.0,No effect
+27.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,113.0,2,2,2,2,1,4,2,2,2,2,2,4,4,3,3,2,7.0,2.0,0.0,1.0,Improve
+18.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,80.0,1,4,4,4,3,3,2,2,2,3,3,4,3,3,4,3,8.0,6.0,0.0,2.0,Improve
+26.0,Spotify,3.0,No,No,No,Metal,Yes,No,140.0,2,4,1,4,2,3,3,1,1,2,4,2,2,3,4,2,1.0,3.0,10.0,0.0,No effect
+37.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,100.0,1,1,1,1,1,2,1,1,1,1,3,3,2,2,3,1,8.0,10.0,10.0,2.0,Worsen
+26.0,Spotify,5.0,Yes,Yes,No,Folk,Yes,Yes,92.0,3,2,2,4,1,4,4,1,2,2,3,3,3,4,4,2,4.0,7.0,6.0,0.0,No effect
+19.0,Spotify,4.0,No,No,No,Pop,No,Yes,120.0,1,1,3,1,1,3,3,3,3,2,1,4,3,3,3,3,9.0,6.0,3.0,0.0,No effect
+22.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,93.0,1,2,1,1,1,2,1,1,1,2,3,4,2,2,4,4,10.0,7.0,4.0,4.0,Improve
+21.0,I do not use a streaming service.,0.5,No,No,No,Pop,No,No,108.0,1,1,1,1,1,1,1,3,1,1,1,3,1,1,1,1,10.0,2.0,1.0,10.0,Worsen
+28.0,I do not use a streaming service.,1.0,Yes,No,No,Rock,No,No,147.0,2,2,1,2,1,1,1,1,1,1,1,3,1,1,3,1,2.0,1.0,2.0,2.0,Improve
+23.0,YouTube Music,3.0,Yes,No,No,R&B,Yes,Yes,93.0,4,1,1,4,1,4,4,1,2,4,2,4,4,4,3,2,3.0,10.0,0.0,0.0,No effect
+17.0,Spotify,4.0,Yes,Yes,Yes,Metal,No,No,120.0,1,2,4,1,1,1,2,1,1,2,4,3,1,1,4,3,4.0,2.0,0.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,R&B,No,No,130.0,2,2,2,2,2,2,2,2,1,1,1,3,3,3,3,2,4.0,2.0,5.0,3.0,Improve
+18.0,YouTube Music,4.0,No,No,No,Folk,Yes,Yes,123.0,3,4,3,4,2,3,3,1,1,3,4,4,2,2,4,4,8.0,6.0,4.0,0.0,Improve
+20.0,Other streaming service,2.0,Yes,Yes,Yes,Rock,Yes,No,135.0,3,2,1,2,1,1,2,2,1,1,1,4,1,1,4,3,2.0,2.0,0.0,0.0,No effect
+27.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,105.0,2,1,4,2,1,2,2,1,1,4,4,2,2,2,4,4,8.0,7.0,9.0,3.0,Improve
+24.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,115.0,1,1,1,1,1,3,2,2,1,2,1,4,4,3,2,2,6.0,6.0,3.0,6.0,Improve
+20.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,120.0,3,1,2,1,3,1,2,4,1,3,1,4,3,1,2,1,8.0,7.0,1.0,1.0,No effect
+16.0,Spotify,2.0,Yes,No,No,Video game music,No,No,149.0,4,1,1,1,1,1,1,1,1,1,1,2,1,2,1,4,6.0,2.0,4.0,3.0,Improve
+17.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,110.0,4,2,2,3,2,4,4,1,2,4,3,3,4,4,4,3,7.0,3.0,9.0,7.0,Improve
+21.0,Spotify,1.5,Yes,Yes,No,Classical,Yes,Yes,110.0,4,2,4,4,3,3,4,1,2,3,2,4,2,3,3,3,4.0,6.0,0.0,0.0,No effect
+17.0,Spotify,2.0,Yes,No,No,Folk,Yes,Yes,116.0,4,3,1,4,3,2,4,1,3,3,1,4,2,1,3,2,9.0,4.0,0.0,1.0,Improve
+21.0,Spotify,3.0,No,No,No,Rap,Yes,Yes,145.0,3,1,1,2,1,4,1,1,1,3,2,3,3,4,2,3,9.0,7.0,7.0,5.0,Improve
+36.0,YouTube Music,3.0,Yes,No,No,Country,No,Yes,105.0,4,4,3,1,1,2,1,4,3,1,1,2,3,1,1,1,1.0,0.0,1.0,0.0,Improve
+18.0,Spotify,4.0,No,No,No,R&B,Yes,Yes,80.0,2,1,2,1,3,4,1,4,1,2,1,4,4,4,1,1,8.0,7.0,2.0,6.0,Improve
+18.0,Spotify,1.0,No,No,No,K pop,No,Yes,100.0,1,1,2,1,1,4,1,4,1,3,1,3,3,2,2,1,5.0,1.0,4.0,0.0,Improve
+18.0,Apple Music,5.0,Yes,Yes,No,Latin,Yes,Yes,73.0,4,3,2,1,1,3,2,3,4,3,1,4,3,2,3,1,10.0,6.0,0.0,0.0,Improve
+18.0,Apple Music,2.0,Yes,No,No,R&B,Yes,No,80.0,1,1,1,1,1,3,1,4,1,1,1,4,4,4,1,1,7.0,5.0,5.0,5.0,Improve
+18.0,I do not use a streaming service.,1.0,Yes,No,No,Classical,No,No,120.0,3,3,2,2,2,3,3,2,2,4,1,2,2,2,2,2,2.0,0.0,0.0,5.0,No effect
+18.0,I do not use a streaming service.,1.0,No,Yes,No,Classical,No,No,117.0,4,1,3,1,1,3,2,1,1,1,1,3,1,2,1,2,7.0,0.0,0.0,0.0,No effect
+20.0,Spotify,6.0,Yes,No,No,R&B,Yes,Yes,89.0,2,1,1,2,1,3,1,3,3,3,1,4,4,4,1,2,4.0,1.0,1.0,0.0,Improve
+19.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,No,115.0,3,1,2,1,1,4,2,2,1,3,1,4,4,4,1,2,3.0,8.0,0.0,2.0,Improve
+17.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,144.0,3,1,1,1,1,4,1,1,1,4,1,3,1,4,1,1,7.0,0.0,2.0,2.0,Improve
+23.0,Spotify,4.0,Yes,No,No,Video game music,Yes,Yes,105.0,2,2,4,2,2,2,2,2,1,4,3,3,3,3,3,4,10.0,8.0,10.0,0.0,Improve
+18.0,YouTube Music,1.0,Yes,Yes,Yes,Pop,Yes,No,114.0,1,2,1,3,2,2,1,3,1,3,1,4,2,3,3,1,7.0,1.0,1.0,1.0,Improve
+19.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,145.0,2,1,3,1,1,1,1,3,1,1,2,4,1,2,3,3,5.0,9.0,1.0,7.0,No effect
+20.0,Spotify,5.0,Yes,Yes,Yes,R&B,Yes,Yes,128.0,4,3,1,3,1,4,2,4,4,4,1,4,4,4,4,3,10.0,6.0,3.0,8.0,Improve
+16.0,Spotify,3.0,No,Yes,No,Rock,Yes,Yes,90.0,2,1,1,2,1,3,3,1,3,1,1,1,3,3,4,1,7.0,3.5,3.5,5.5,Improve
+17.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,110.0,3,4,1,1,1,2,3,4,2,3,1,4,2,2,3,1,2.0,0.0,0.0,2.0,Improve
+16.0,Spotify,9.0,Yes,No,No,Metal,No,Yes,130.0,2,1,1,2,1,1,1,2,2,1,4,3,2,2,4,1,10.0,10.0,10.0,8.0,Improve
+30.0,YouTube Music,1.0,Yes,Yes,No,Rock,Yes,Yes,115.0,3,2,2,2,2,2,2,3,1,3,3,4,2,2,4,3,9.0,7.0,8.0,4.0,Improve
+37.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,186.0,3,3,1,3,1,2,3,1,1,1,2,3,2,2,3,3,6.0,4.0,5.0,0.0,Improve
+44.0,YouTube Music,1.5,No,No,No,Folk,No,No,99.0,2,4,1,4,2,3,1,1,1,1,1,2,2,3,3,1,8.0,5.0,9.0,4.0,Improve
+21.0,Spotify,2.0,Yes,Yes,No,Metal,Yes,Yes,150.0,1,2,2,1,1,1,1,1,1,1,4,2,1,3,4,2,3.0,7.0,0.0,0.0,Improve
+19.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,149.0,3,3,1,2,1,1,1,1,1,3,1,4,1,1,1,1,9.0,1.0,0.0,9.0,Improve
+26.0,Spotify,1.0,No,No,No,Country,Yes,No,120.0,3,4,3,2,1,2,1,1,1,1,2,3,1,1,3,2,4.0,1.0,1.0,6.0,Improve
+18.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,140.0,3,1,1,1,1,2,3,1,1,2,2,2,2,2,3,4,6.0,5.0,3.0,1.0,No effect
+35.0,Spotify,4.0,Yes,Yes,Yes,Hip hop,Yes,No,90.0,3,2,2,3,1,4,4,1,3,4,2,4,4,4,3,4,7.0,8.0,6.0,5.0,Improve
+16.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,120.0,4,1,2,3,1,1,2,2,2,2,2,3,2,1,4,3,8.0,9.0,5.0,10.0,Improve
+19.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,210.0,1,1,4,1,1,2,1,1,1,1,4,2,1,2,4,3,8.0,6.0,7.0,0.0,Improve
+17.0,YouTube Music,8.0,Yes,No,No,Pop,Yes,Yes,95.0,2,1,4,1,1,3,2,1,1,4,1,4,1,2,2,4,5.0,2.0,4.0,7.0,No effect
+29.0,Apple Music,1.0,No,No,No,Country,Yes,No,163.0,3,4,1,3,3,3,2,1,2,1,2,3,2,2,4,1,9.0,3.0,2.0,0.0,No effect
+21.0,Spotify,4.0,Yes,Yes,Yes,Pop,No,No,97.0,2,3,1,3,3,2,3,1,1,1,1,3,3,2,3,1,4.0,6.0,3.0,4.0,Improve
+17.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,137.0,3,1,1,2,1,2,2,2,3,2,4,3,1,2,4,2,9.0,8.0,4.0,0.0,Improve
+17.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,70.0,2,1,2,3,1,1,1,1,4,4,4,3,1,1,4,4,8.0,3.0,9.0,2.0,No effect
+22.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,150.0,2,2,3,3,1,2,3,2,2,2,3,4,2,2,3,4,10.0,10.0,6.0,8.0,Improve
+17.0,Spotify,5.0,Yes,No,No,Hip hop,Yes,No,168.0,2,3,4,1,3,4,1,3,1,3,2,4,4,4,2,2,7.0,7.0,5.0,5.0,Improve
+19.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,Yes,163.0,4,3,2,1,2,2,2,4,3,4,2,4,2,2,3,2,10.0,8.0,1.0,0.0,Improve
+19.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,140.0,3,2,3,1,1,3,3,2,2,3,3,4,3,3,3,3,8.0,6.0,2.0,0.0,Improve
+16.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,105.0,2,2,3,2,1,4,3,4,4,2,1,4,4,4,1,1,10.0,7.0,6.0,10.0,Improve
+19.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,78.0,2,2,2,1,1,3,3,3,2,3,1,4,2,2,2,3,6.0,6.0,8.0,0.0,Improve
+13.0,Spotify,1.0,Yes,No,No,Video game music,Yes,No,128.0,2,3,1,2,1,4,2,2,2,4,4,4,1,3,3,4,10.0,10.0,8.0,4.0,Worsen
+26.0,YouTube Music,1.0,Yes,No,No,Metal,Yes,Yes,136.0,3,2,3,4,1,1,2,1,1,2,4,2,1,1,1,2,0.0,0.0,0.0,0.0,No effect
+14.0,Other streaming service,7.0,Yes,Yes,No,Country,Yes,No,108.0,2,4,3,3,4,3,1,1,1,2,3,4,3,3,4,2,7.0,3.0,1.0,2.0,Improve
+21.0,I do not use a streaming service.,0.5,No,No,No,Pop,Yes,No,95.0,1,2,3,1,1,3,2,3,1,4,1,4,3,3,4,1,6.0,2.0,2.0,0.0,Improve
+21.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,147.0,3,1,3,2,1,1,3,4,1,3,2,3,4,3,3,3,7.0,6.0,4.0,6.0,Improve
+17.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,120.0,4,2,1,3,1,3,2,1,3,2,2,4,1,2,4,1,7.0,6.0,0.0,9.0,Improve
+18.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,160.0,2,2,1,1,1,1,2,1,1,2,1,4,1,1,3,3,3.0,2.0,2.0,5.0,Improve
+19.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,120.0,2,3,3,2,2,4,2,2,2,3,2,3,3,3,2,2,2.0,2.0,2.0,2.0,Improve
+19.0,Spotify,5.0,Yes,Yes,No,Classical,No,No,170.0,4,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,2.0,3.0,2.0,1.0,Improve
+29.0,YouTube Music,2.0,Yes,No,No,Hip hop,Yes,Yes,98.0,3,2,4,3,2,4,4,3,1,2,1,3,4,4,4,2,2.0,2.0,2.0,5.0,Improve
