@@ -21,7 +21,7 @@ I would like to investigate the connection between people's favorite music genre
 ![Pearson_correlation_coefficient](https://github.com/BOOMUMA/BOOMUMA/blob/main/Correlation%20coefficient.png)
 
 A positive coefficient indicates a positive linear relationship between two variables, suggesting that as one variable increases, the other variable also tends to increase. Conversely, a negative coefficient indicates a negative linear relationship, meaning that as one variable increases, the other variable tends to decrease. A coefficient of 0 signifies no linear relationship between the two variables. The size of the coefficient can be interpreted as follows:
-
+[![interpret_r.png](https://github.com/BOOMUMA/BOOMUMA/blob/main/interpret_r.png)](https://github.com/BOOMUMA/BOOMUMA/blob/main/interpret_r.png)
 0.90 to 1.00 	Very high positive (negative) correlation
 0.70 to 0.90    High positive (negative) correlation
 0.50 to 0.70    Moderate positive (negative) correlation
